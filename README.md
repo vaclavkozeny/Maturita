@@ -4,7 +4,7 @@
 
 ## Biblické příběhy
 
-## Romeo a Julie
+## [Romeo a Julie](./Books/Romeo_Julie.md)
 
 ## Lakomec
 
@@ -24,7 +24,7 @@
 
 ## Babička
 
-## Nový epochální výlet pana Broučka, tentokráte do 15. století
+## [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md)
 
 ## Noc na Karlštejně
 
