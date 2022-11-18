@@ -1,4 +1,4 @@
-# [Základní programové konstrukce](<./PDF/MT_01_Princ_Mrnka_Zakladni_Programove_Konstrukce%20(1).pdf)
+# [Základní programové konstrukce](./PDF/MT_01_Princ_Mrnka_Zakladni_Programove_Konstrukce%20(1).pdf)
 
 ## Proměná
 
