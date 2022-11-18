@@ -1,14 +1,21 @@
 # Romeo a Julie
 
-- Autor: Wiliam Shakespeare
-- Rok vydání: 1595
+- Wiliam Shakespeare
+- 1595
 - Literární druh: Drama
 - Žánr: Drama
 
-## Renesance
+## O autorovi a období
+
+- anglický básník, dramatik a herec
+- 1564 (Stratford nad Avonou) - 1616 (Stratford nad Avonou)
+- 38 her, 154 sonetů
+-
+
+### Renesance
 
 - Návrat k antice
-- 14-16 století
+- 14-17 století
 - důraz na teoretické uvažování o literatuře
 - Renesanční literární kritika vyžadovala:
   - velkolepost
@@ -16,24 +23,37 @@
   - rozmanitost
   - podobnost
 
-## Další autoři:
+### Další autoři:
 
-- Giovanni Boccaccio:
-  - Dekameron
-- Francesco Petrarca:
-  - básník
-- Leonardo da Vinci
+- **Giovanni Boccaccio**
+  - byl italský renesanční básník a novelista
+  - je všeobecně považován za zakladatele italské umělecké prózy.
+  - **Dekameron**
+    - soubor sta novel o lásce rozdělených po deseti na deset dní
+    - Příběhy si vypráví tři mladí muži a sedm mladých žen, kteří utekli z města na venkov, aby se zachránili před morem
+- **Francesco Petrarca**
+  - byl italský spisovatel a básník
+  - považován za jednoho z prvních autorů renesanční literatury
+  - **Zpěvník**
 
-## Další díla:
+### Další díla:
 
-- Hamlet
-- Král Lear
+- **Hamlet**
+  - tragédie
+  - touha po moci
+  - intriky
+  - násilí
+- **Král Lear**
+  - příběh krále, který propadne šílenství
+  - pošetile rozdělí království mezi dvě ze svých tří dcer na základě jejich lichotek
+  - což má pro všechny tragické následky
 
-## Inspirace
+## Forma
 
-Někteří shakespearologové kladou vznik této tragédie do začátků Shakespearova působení v herecké skupině lorda komořího. Námět, nešťastný osud dvou milenců pocházejících ze dvou navzájem znepřátelených rodin, je snad starý jako lidstvo samo
+- blankvers
+  - nerýmovaný pětistopý verš
 
-## Jazyk
+## Slovní zásoba
 
 - V díle je využita
   - próza
@@ -46,14 +66,34 @@ Někteří shakespearologové kladou vznik této tragédie do začátků Shakesp
   - citově zabarvené výrazy
   - inverze
 
-## Kritika
+## Časoprostor
 
-- Prvním známým kritikem hry byl deníkář Samuel Pepys, který v roce 1662 napsal: "Je to hra sama o sobě nejhorší, jakou jsem kdy v životě slyšel."Básník John Dryden o deset let později hru a její komickou postavu Merkucia pochválil: "Kritika hry v 18. století byla sice méně skoupá, ale neméně rozpolcená.Shakespear ve svém Merkuciovi předvedl to nejlepší ze svého umění a sám řekl, že byl nucen ho ve třetím dějství zabít, aby ho nezabil. Nakladatel Nicholas Rowe byl prvním kritikem, který se zamyslel nad tématem hry, které viděl jako spravedlivý trest pro dva znepřátelené rody. V polovině století spisovatel Charles Gildon a filozof lord Kames tvrdili, že hra je neúspěšná, protože se neřídí klasickými pravidly dramatu: k tragédii musí dojít kvůli nějaké charakterové vadě, nikoliv kvůli náhodě osudu. Spisovatel a kritik Samuel Johnson ji však považoval za jednu z "nejpříjemnějších" Shakespearových her.
+- Verona, Itálie
+- 16 století
 
-- V pozdější části 18. a v průběhu 19. století se kritika soustředila na debaty o morálním poselství hry. Adaptace herce a dramatika Davida Garricka z roku 1748 Rosalinu vyloučila: Romeo, který ji opustil kvůli Julii, byl považován za nestálého a lehkomyslného. Kritici, jako například Charles Dibdin, tvrdili, že Rosalina byla do hry zařazena proto, aby ukázala, jak lehkomyslný byl hrdina, a že to byl důvod jeho tragického konce. Jiní tvrdili, že mnich Vavřinec může být Shakespearovým mluvčím, který varuje před zbytečným spěchem. Na počátku 20. století tyto morální argumenty zpochybňovali kritici, jako byl Richard Green Moulton: tvrdil, že ke smrti milenců vedla náhoda, a nikoli nějaká charakterová vada
+## Vyprávěcí způsob
 
-- Názory na hru byly smíšené, později se začali dívat na smysl a poselství díla
+- monology mezi postavamy
 
-## Děj a postavy
+## Děj
 
-![Image](../Images/RJ.jpg)
+Kniha se odehrává ve Veroně, kde žijí dva protisobě znepřátelené rody (Montekové a Kapuletové). Z jednoho pochází Romeo a z druhého Julie a ty se do sebe zamilují. Jsou tajně oddáni Vavřincem. Ješte tento den je Romeem zabit Tybalt. Romeo je vyhoštěn z města. Rod Kapuletů pro Julii sežene nového ženicha. Julie si ho vzít nechce a tak vymyslí plán jak se neúčastnit svatby. Julie bude hrát mrtvou. Plán do jisté míry vyjde. Ovšem do Juliiny hrobky dorazí Romeo a když zjistí že je Julie mrtvá tak vypije jed. Jenže Julie se chvíli na to probere a když zjistí že je Romeo mrtvý tak se nakonec probodne mečem.
+
+## Postavy
+
+- Romeo
+  - rod Monteků
+  - mladý clapec
+  - zamiluje se do Julie
+- Julie
+  - rod Kapuletů
+  - mladá dívka
+- Vavřinec
+  - řeholník
+  - tajně oddá Romea a Julii
+- Tybalt
+  - rod Kapuletů
+  - bratranec Julie
+  - je zabit Romeem
+- Paris
+  - vybrán jako ženich pro Julii

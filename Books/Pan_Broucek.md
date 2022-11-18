@@ -32,10 +32,6 @@
 
 ## Současní spisovatelé
 
-- Eliška Krásnohorská
-
-  - byla česká básnířka, libretistka, spisovatelka a překladatelka
-
 - Jaroslav Vrchlický
   - byl český spisovatel, básník, dramatik a překladatel
   - Noc na Karlštejně - divadelní komedie

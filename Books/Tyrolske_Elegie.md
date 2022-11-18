@@ -12,7 +12,7 @@
 - 1821 (Borová) - 1856 (Praha, tuberkulóza)
 - zakladatel české žurnalistiky, satiry a literární kritiky
 
-## Další autorova díla
+### Další autorova díla
 
 - Křest svatého Vladimíra (1877)
   - příběh boha Peruna (slovanský bůh hromu). Car chtěl, aby mu na jeho svátek Perun zahřměl na oslavu, Perun to odmítl splnit
