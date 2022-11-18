@@ -34,11 +34,17 @@
 
 - Jaroslav Vrchlický
   - byl český spisovatel, básník, dramatik a překladatel
-  - Noc na Karlštejně - divadelní komedie
+  - Noc na Karlštejně
+    - divadelní komedie
     - Karel IV, Karlštejn
 - Julius Zeyer
   - byl český prozaik, dramatik a básník, lumírovec
-  - Tři legendy o krucifixu - Téma národnostní - náboženské a - potřetí sociální. - každá z legend ukazuje různé způsoby víry člověka v Boha
+  - Tři legendy o krucifixu
+    - Téma:
+      - národnostní
+      - náboženské
+      - sociální
+    - každá z legend ukazuje různé způsoby víry člověka v Boha
 
 ## Vypravěč a forma
 
