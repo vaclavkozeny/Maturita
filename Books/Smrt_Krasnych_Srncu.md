@@ -10,7 +10,7 @@
 ### O autorovi
 
 - vlasním jménem **Otto Popper**
-- 2\. července 1930 Praha – 31. března 1973 Praha
+- 1930 Praha – 1973 Praha
 - židovský původ
 - český prozaik a novinář
 - autor autobiografických próz ze svého dětství
@@ -70,12 +70,13 @@
 ## Časoprostor
 
 - obodobí cruhé světové války
-- Praha, Křivkoklátsko
+- Křivkoklátsko, řeka Berounka
 
 ## Vyprávěcí způsob
 
 - Ich forma
 - sám autor je vypraveč
+- chronologie
 
 ## Děj
 
@@ -116,7 +117,11 @@ Prase nebude! je povídka, která byla během komunismu cenzurována. Tatínek �
 ## Postavy
 
 - sám autor
-- jeho rodina (otec, matka, bratři)
+- Leo Popper
+  - hlavní postava
+  - zaměstanec Elektroluxu
+  - rybář
+  - miluje svoji roďinu
 
 ## Jazykové prostředky
 
