@@ -42,6 +42,6 @@
 
 ## Krysař
 
-## Smrt krásných srnců
+## [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
 
 ## Romeo, Julie a tma
