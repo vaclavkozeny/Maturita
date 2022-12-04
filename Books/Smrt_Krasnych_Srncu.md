@@ -63,12 +63,19 @@
 
 ## Slovní zásoba
 
+- přímá řeč
+- jednoduchý přirozený jazyk
+- lidová slovesnost
+
 ## Časoprostor
 
 - obodobí cruhé světové války
 - Praha, Křivkoklátsko
 
 ## Vyprávěcí způsob
+
+- Ich forma
+- sám autor je vypraveč
 
 ## Děj
 
