@@ -16,7 +16,7 @@
 
 ## Quo vadis
 
-## [Máj](./Books/Maj)
+## [Máj](./Books/Maj.md)
 
 ## Kytice
 
