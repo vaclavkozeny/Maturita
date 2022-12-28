@@ -43,7 +43,7 @@
   - český básník
   - dílo je ovlivněno symbolismem a Českou modernou
   - [Slezské písně](./Slezske_pisne.md)
-    - národní a sociální tematikou
+    - národní a sociální tematika
 - **Viktor Dyk**
   - český básník, dramatik, publicista a nacionalistický politik
   - později nacionalisticky orientovaný autor

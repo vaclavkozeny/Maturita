@@ -1,9 +1,5 @@
 # **Maturitní četba**
 
-## Staré řecké báje a pověsti
-
-## Biblické příběhy
-
 ## [Romeo a Julie](./Books/Romeo_Julie.md)
 
 ## Lakomec
@@ -13,8 +9,6 @@
 ## Revizor
 
 ## Kulička
-
-## Quo vadis
 
 ## [Máj](./Books/Maj.md)
 
@@ -30,7 +24,7 @@
 
 ## [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)
 
-## Slezské písně
+## [Slezské písně](./Books/Slezske_pisne.md)
 
 ## Malý princ
 
@@ -40,7 +34,7 @@
 
 ## [Farma zvířat](./Books/Farma_Zvirat.md)
 
-## Krysař
+## [Krysař](./Books/Krysar.md)
 
 ## [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
 
