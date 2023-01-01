@@ -16,7 +16,7 @@
 
 ## [Tyrolské elegie](./Books/Tyrolske_Elegie.md)
 
-## Babička
+## [Babička](./Books/Babicka.md)
 
 ## [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md)
 
