@@ -38,7 +38,7 @@
     - sbírka 13 lyrickoepických básní
 - Božena Němcová
   - byla česká spisovatelka
-  - Babička
+  - [Babička](./Babicka.md)
     - světově proslulé dílo, napsané po smrti syna Hynka
 - Honoré de Balzac
   - byl francouzský spisovatel, představitel realismu a romantismu, novinář a kritik
