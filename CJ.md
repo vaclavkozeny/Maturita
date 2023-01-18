@@ -1,5 +1,22 @@
 # **Maturitní četba**
 
+# Časová osa
+
+## Literatura před 15 stoletím
+
+- legendy
+- písně
+- kroniky
+- hrdinské eposy
+- cestopisy
+
+- **Jan Hus**
+- **Karel IV.**
+
+<br/>
+
+# Knihy
+
 ## [Romeo a Julie](./Books/Romeo_Julie.md)
 
 ## Lakomec
@@ -28,9 +45,9 @@
 
 ## Malý princ
 
-## Petr a Lucie
+## [Petr a Lucie](./Books/Petr_Lucie.md)
 
-## Stařec a moře
+## [Stařec a moře](./Books/Starec_a_more.md)
 
 ## [Farma zvířat](./Books/Farma_Zvirat.md)
 

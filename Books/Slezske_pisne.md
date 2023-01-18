@@ -1,7 +1,6 @@
 # Slezské písně
 
-- Petr Bezruč
--
+- Petr BezručS
 - Literární druh: Lyrika
 - Forma lit. druhu: Poezie
 

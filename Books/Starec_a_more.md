@@ -1,0 +1,1 @@
+já to nesnáším
