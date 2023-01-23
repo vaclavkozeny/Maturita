@@ -71,10 +71,22 @@ Děj se odehrává za vlády Karla IV na hradě Karlštejn. Do hradu podle záko
 ## Postavy
 
 - Král Karel
-- Královna Eliška– Karlova manželka
-- Pešek – královský páže
-- Alena – zamilovaná do Peška
-- Král Petr – návštěvník hradu
+  - rozumný, spravedlivý, čestný
+  - smysl pro humor
+  - dokáže se povznést nad prohřešky
+- Královna Eliška
+  - Karlova manželka
+  - silná -> dokáže zlomit meč
+- Pešek
+  - královský páže
+  - zmatkař
+- Alena
+  - zamilovaná do Peška
+  - statečná, odvážná
+  - smysl pro humor
+- Král Petr
+  - návštěvník hradu
+  - má rád **víno, ženy a zpěv**
 
 ## Jazykové prostředky
 

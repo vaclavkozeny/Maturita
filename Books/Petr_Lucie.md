@@ -2,6 +2,7 @@
 
 - Autor: Romain Rolland [rolan]
 - Literární druh: Epika
+- vydánno: 1920
 - Forma lit. druhu: milostná novela
 
 ## O autorovi
@@ -53,9 +54,22 @@
 
 ## Slovní zásoba
 
+- spisovný jazyk
+- fylozofické výrazy
+- francouzské výrazy
+- **dialogy**
+
 ## Časoprostor
 
+- Paříž
+- 1918
+
 ## Vyprávěcí způsob
+
+- er forma
+- vševědoucí vypravěč
+- chronologický
+- děleno na kratší ůseky bez kapitol
 
 ## Děj
 
@@ -67,8 +81,15 @@ Lidé se při bombardování Paříže schovávají do metra, Petr také. Zde po
 
 ## Postavy
 
-- Petr – chlapec, povolán do válka
-- Lucie – dívka, maluje obrazy
+- Petr Aubier
+  - chlapec 18 let
+  - povolán do válka
+  - protiválečný postoj
+  - vliv náboženství
+- Lucie
+  - dívka
+  - nežná, citlivá
+  - maluje obrazy
 
 ## Jazykové prostředky
 
