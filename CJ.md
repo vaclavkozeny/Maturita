@@ -1,19 +1,6 @@
 # **Maturitní četba**
 
-# Časová osa
-
-## Literatura před 15 stoletím
-
-- legendy
-- písně
-- kroniky
-- hrdinské eposy
-- cestopisy
-
-- **Jan Hus**
-- **Karel IV.**
-
-<br/>
+## [Časová osa](./Casova_osa.md)
 
 # Knihy
 
