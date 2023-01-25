@@ -32,12 +32,12 @@
 
 ## Současní spisovatelé
 
-- Jaroslav Vrchlický
+- **Jaroslav Vrchlický**
   - byl český spisovatel, básník, dramatik a překladatel
-  - Noc na Karlštejně
+  - [**Noc na Karlštejně**](./Noc_na_Karlstejne.md)
     - divadelní komedie
     - Karel IV, Karlštejn
-- Julius Zeyer
+- **Julius Zeyer**
   - byl český prozaik, dramatik a básník, lumírovec
   - Tři legendy o krucifixu
     - Téma:
