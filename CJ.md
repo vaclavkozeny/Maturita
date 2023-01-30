@@ -30,7 +30,7 @@
 
 ## [Slezské písně](./Books/Slezske_pisne.md)
 
-## Malý princ
+## [Malý princ](./Books/Maly_princ.md)
 
 ## [Petr a Lucie](./Books/Petr_Lucie.md)
 
@@ -42,4 +42,4 @@
 
 ## [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
 
-## Romeo, Julie a tma
+## [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)

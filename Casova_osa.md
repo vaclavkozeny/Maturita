@@ -18,6 +18,16 @@
 
 ## Renesance
 
+- Návrat k antice
+- 14-17 století
+- důraz na teoretické uvažování o literatuře
+- Renesanční literární kritika vyžadovala:
+  - velkolepost
+  - půvab
+  - rozmanitost
+  - podobnost
+-
+
 ## Humanismus
 
 ## Baroko
