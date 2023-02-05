@@ -6,7 +6,7 @@
 
 ## [Romeo a Julie](./Books/Romeo_Julie.md)
 
-## Lakomec
+## [Lakomec](./Books/Lakomec.md)
 
 ## Chrám matky boží v Paříži
 

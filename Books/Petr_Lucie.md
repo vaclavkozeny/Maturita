@@ -41,10 +41,12 @@
 
 ## Současní spisovatelé
 
-- **Honoré de Balzac**
-  - byl francouzský spisovatel, představitel realismu a romantismu, novinář a kritik
-  - Lidská komedie
-    - cyklus devadesáti sedmi románů a povídek
+- **Antoine de Saint-Exupéry**
+  - francouzský spisovatel
+  - pilot
+  - **[Malý princ](./Maly_princ.md)**
+    - filozofická fikce
+    - ukázka rodílu mezi světeme dospělích a dětí
 - **Ernest Hemingway**
   - byl americký spisovatel
   - považován za čelného představitele tzv. **ztracené generace**
