@@ -26,6 +26,8 @@
 
 ### O období
 
+- meziválečné období
+
 ### Další autoři
 
 - **Karel Čapek**

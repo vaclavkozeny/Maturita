@@ -2,44 +2,70 @@
 
 ## [Časová osa](./Casova_osa.md)
 
-# Knihy
+| Název                                                                                  | Autor                    | Období                 | state          |
+| -------------------------------------------------------------------------------------- | ------------------------ | ---------------------- | -------------- |
+| [Romeo a Julie](./Books/Romeo_Julie.md)                                                | William Shakespear       | Romantimus             | Done           |
+| [Lakomec](./Books/Lakomec.md)                                                          | Moliére                  | Klasicimus             | Done           |
+| Chrám matky boží v Paříži                                                              | Victro Hugo              |                        | NO             |
+| [Revizor](./Books/Revizor.md)                                                          | Nikolaj Vasiljevič Gogol | Realimus               | Done           |
+| [Kulička](./Books/Kulicka.md)                                                          | Guy De Maupassant        | Realimus               | Done           |
+| [Máj](./Books/Maj.md)                                                                  | Karel Hynek Mácha        | Romantimus             | Done           |
+| Kytice                                                                                 | Karel Jaromír Erben      | Romantimus             | NO             |
+| [Tyrolské elegie](./Books/Tyrolske_Elegie.md)                                          | Karel Havlíček Borovský  | Realismus              | Done           |
+| [Babička](./Books/Babicka.md)                                                          | Božena Němcová           | Romantimus / Realismus | Done           |
+| [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md) | Svatopluk Čech           | Realismus              | Done           |
+| [Noc na Karlštejně](./Books/Noc_na_Karlstejne.md)                                      | Jaroslav Vrchlický       | Ruchovci / Lumírovci   | Done           |
+| [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)                          | František Gellner        | Anarchističtí buřiči   | Done           |
+| [Slezské písně](./Books/Slezske_pisne.md)                                              | Petr Bezruč              | Anarchističtí buřiči   | Done           |
+| [Malý princ](./Books/Maly_princ.md)                                                    | Antoine de Saint-Exupéry | Meziválečné období     | Done           |
+| [Petr a Lucie](./Books/Petr_Lucie.md)                                                  | Romain Rolland           | Ztracená generace      | Done           |
+| [Stařec a moře](./Books/Starec_a_more.md)                                              | Ernest Hamingway         | Ztracená generace      | Done           |
+| [Farma zvířat](./Books/Farma_Zvirat.md)                                                | George Orwell            | Meziválečné období     | Dodělat období |
+| [Krysař](./Books/Krysar.md)                                                            | Viktor Dyk               | Anarchističtí buřiči   | Done           |
+| [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)                                  | Otta Pavel               | Reakce na WWII         | Done           |
+| [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)                                       | Jan Otčenášek            | Reakce na WWII         | Done           |
 
-## [Romeo a Julie](./Books/Romeo_Julie.md)
+<hr/>
+<br/>
 
-## [Lakomec](./Books/Lakomec.md)
+## Knihy
 
-## Chrám matky boží v Paříži
+#### [Romeo a Julie](./Books/Romeo_Julie.md)
 
-## [Revizor](./Books/Revizor.md)
+#### [Lakomec](./Books/Lakomec.md)
 
-## [Kulička](./Books/Kulicka.md)
+#### Chrám matky boží v Paříži
 
-## [Máj](./Books/Maj.md)
+#### [Revizor](./Books/Revizor.md)
 
-## Kytice
+#### [Kulička](./Books/Kulicka.md)
 
-## [Tyrolské elegie](./Books/Tyrolske_Elegie.md)
+#### [Máj](./Books/Maj.md)
 
-## [Babička](./Books/Babicka.md)
+#### Kytice
 
-## [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md)
+#### [Tyrolské elegie](./Books/Tyrolske_Elegie.md)
 
-## [Noc na Karlštejně](./Books/Noc_na_Karlstejne.md)
+#### [Babička](./Books/Babicka.md)
 
-## [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)
+#### [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md)
 
-## [Slezské písně](./Books/Slezske_pisne.md)
+#### [Noc na Karlštejně](./Books/Noc_na_Karlstejne.md)
 
-## [Malý princ](./Books/Maly_princ.md)
+#### [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)
 
-## [Petr a Lucie](./Books/Petr_Lucie.md)
+#### [Slezské písně](./Books/Slezske_pisne.md)
 
-## [Stařec a moře](./Books/Starec_a_more.md)
+#### [Malý princ](./Books/Maly_princ.md)
 
-## [Farma zvířat](./Books/Farma_Zvirat.md)
+#### [Petr a Lucie](./Books/Petr_Lucie.md)
 
-## [Krysař](./Books/Krysar.md)
+#### [Stařec a moře](./Books/Starec_a_more.md)
 
-## [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
+#### [Farma zvířat](./Books/Farma_Zvirat.md)
 
-## [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)
+#### [Krysař](./Books/Krysar.md)
+
+#### [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
+
+#### [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)
