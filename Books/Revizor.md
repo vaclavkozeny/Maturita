@@ -1,8 +1,8 @@
 # Revizor
 
 - Nikolaj Vasiljevič Gogol
-- Epika
-- Próza
+- Drama
+- komedie
 
 ## O autorovi a období:
 

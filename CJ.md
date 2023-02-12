@@ -2,28 +2,28 @@
 
 ## [Časová osa](./Casova_osa.md)
 
-| Název                                                                                  | Autor                    | Období                 | state          |
-| -------------------------------------------------------------------------------------- | ------------------------ | ---------------------- | -------------- |
-| [Romeo a Julie](./Books/Romeo_Julie.md)                                                | William Shakespear       | Romantimus             | Done           |
-| [Lakomec](./Books/Lakomec.md)                                                          | Moliére                  | Klasicimus             | Done           |
-| Chrám matky boží v Paříži                                                              | Victro Hugo              |                        | NO             |
-| [Revizor](./Books/Revizor.md)                                                          | Nikolaj Vasiljevič Gogol | Realimus               | Done           |
-| [Kulička](./Books/Kulicka.md)                                                          | Guy De Maupassant        | Realimus               | Done           |
-| [Máj](./Books/Maj.md)                                                                  | Karel Hynek Mácha        | Romantimus             | Done           |
-| Kytice                                                                                 | Karel Jaromír Erben      | Romantimus             | NO             |
-| [Tyrolské elegie](./Books/Tyrolske_Elegie.md)                                          | Karel Havlíček Borovský  | Realismus              | Done           |
-| [Babička](./Books/Babicka.md)                                                          | Božena Němcová           | Romantimus / Realismus | Done           |
-| [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md) | Svatopluk Čech           | Realismus              | Done           |
-| [Noc na Karlštejně](./Books/Noc_na_Karlstejne.md)                                      | Jaroslav Vrchlický       | Ruchovci / Lumírovci   | Done           |
-| [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)                          | František Gellner        | Anarchističtí buřiči   | Done           |
-| [Slezské písně](./Books/Slezske_pisne.md)                                              | Petr Bezruč              | Anarchističtí buřiči   | Done           |
-| [Malý princ](./Books/Maly_princ.md)                                                    | Antoine de Saint-Exupéry | Meziválečné období     | Done           |
-| [Petr a Lucie](./Books/Petr_Lucie.md)                                                  | Romain Rolland           | Ztracená generace      | Done           |
-| [Stařec a moře](./Books/Starec_a_more.md)                                              | Ernest Hamingway         | Ztracená generace      | Done           |
-| [Farma zvířat](./Books/Farma_Zvirat.md)                                                | George Orwell            | Meziválečné období     | Dodělat období |
-| [Krysař](./Books/Krysar.md)                                                            | Viktor Dyk               | Anarchističtí buřiči   | Done           |
-| [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)                                  | Otta Pavel               | Reakce na WWII         | Done           |
-| [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)                                       | Jan Otčenášek            | Reakce na WWII         | Done           |
+| Název                                                                                  | Autor                    | Období                 | Vydáno    | State                |
+| -------------------------------------------------------------------------------------- | ------------------------ | ---------------------- | --------- | -------------------- |
+| [Romeo a Julie](./Books/Romeo_Julie.md)                                                | William Shakespear       | Romantimus             | 1597      | Done                 |
+| [Lakomec](./Books/Lakomec.md)                                                          | Moliére                  | Klasicimus             | 1668      | Dodělat děj, postavy |
+| Chrám matky boží v Paříži                                                              | Victro Hugo              |                        | 1831      | NO                   |
+| [Revizor](./Books/Revizor.md)                                                          | Nikolaj Vasiljevič Gogol | Realimus               | 1836      | Done                 |
+| [Kulička](./Books/Kulicka.md)                                                          | Guy De Maupassant        | Realimus               | 1880      | Done                 |
+| [Máj](./Books/Maj.md)                                                                  | Karel Hynek Mácha        | Romantimus             | 1836      | Done                 |
+| [Tyrolské elegie](./Books/Tyrolske_Elegie.md)                                          | Karel Havlíček Borovský  | Realismus              | 1861      | Done                 |
+| [Babička](./Books/Babicka.md)                                                          | Božena Němcová           | Romantimus / Realismus | 1855      | Done                 |
+| [Nový epochální výlet pana Broučka, tentokráte do 15. století](./Books/Pan_Broucek.md) | Svatopluk Čech           | Ruchovci / Lumírovci   | 1888      | Done                 |
+| [Noc na Karlštejně](./Books/Noc_na_Karlstejne.md)                                      | Jaroslav Vrchlický       | Ruchovci / Lumírovci   | 1884      | Done                 |
+| [Po nás ať přijde potopa](./Books/Po_nas_at_prijde_potopa.md)                          | František Gellner        | Anarchističtí buřiči   | 1901      | Done                 |
+| [Slezské písně](./Books/Slezske_pisne.md)                                              | Petr Bezruč              | Anarchističtí buřiči   | 1899-1904 | Done                 |
+| [Malý princ](./Books/Maly_princ.md)                                                    | Antoine de Saint-Exupéry | Meziválečné období     | 1943      | Done                 |
+| [Petr a Lucie](./Books/Petr_Lucie.md)                                                  | Romain Rolland           | Ztracená generace      | 1920      | Done                 |
+| [Stařec a moře](./Books/Starec_a_more.md)                                              | Ernest Hamingway         | Ztracená generace      | 1952      | Další díla u autora  |
+| [Farma zvířat](./Books/Farma_Zvirat.md)                                                | George Orwell            | Meziválečné období     | 1945      | Dodělat období       |
+| [Krysař](./Books/Krysar.md)                                                            | Viktor Dyk               | Anarchističtí buřiči   | 1915      | Done                 |
+| [Bíla nemoc](./Books/Bila_nemoc.md)                                                    | Karel Čapek              | Meziválečné odbobí     | 1937      | Done                 |
+| [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)                                  | Otta Pavel               | Reakce na WWII         | 1971      | Done                 |
+| [Romeo, Julie a tma](./Books/Romeo_julie_tma.md)                                       | Jan Otčenášek            | Reakce na WWII         | 1958      | Done                 |
 
 <hr/>
 <br/>
@@ -41,8 +41,6 @@
 #### [Kulička](./Books/Kulicka.md)
 
 #### [Máj](./Books/Maj.md)
-
-#### Kytice
 
 #### [Tyrolské elegie](./Books/Tyrolske_Elegie.md)
 
@@ -65,6 +63,8 @@
 #### [Farma zvířat](./Books/Farma_Zvirat.md)
 
 #### [Krysař](./Books/Krysar.md)
+
+### [Bílá nemoc](./Books/Bila_nemoc.md)
 
 #### [Smrt krásných srnců](./Books/Smrt_Krasnych_Srncu.md)
 

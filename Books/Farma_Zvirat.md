@@ -4,7 +4,7 @@
 - 1945
 - Próza
 - Epika
-- Bajka
+- Bajka / Antiutopický román
 
 ## O autorovi a období
 
@@ -27,6 +27,9 @@
 ### O období
 
 - meziválečné období
+- reakce na totalitní režimy
+- převážne utopická díla
+- sci-fi
 
 ### Další autoři
 

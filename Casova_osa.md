@@ -26,7 +26,6 @@
   - půvab
   - rozmanitost
   - podobnost
--
 
 ## Humanismus
 
