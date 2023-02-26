@@ -15,6 +15,18 @@
 - trpěl depresemi
 - představitel ztracené generace
 
+### Další díla
+
+- **Sbohem armádo**
+  - román s autobiografickými prvky
+  - vypravěčem je americký poručík
+  - sloužil za první světové války v italské armádě
+- **Komu zvoní hrana**
+  - námětem je španělská občanská válka
+  - mladý americký profesor španělštiny je vyslán za frontu
+  - v samém závěru knihy je raněn a ponechán na vlastní žádost na místě
+  - celý děj se odehrává během tří dnů
+
 ### Současní spisovatelé
 
 - **John Ernst Steinbeck** [Štajnbek]
@@ -30,7 +42,6 @@
   - často označovaný za autora tzv. **jazzového věku**
   - **Velký Gatsby**
     - je společenský román
-    -
 
 ### Ztracená generace
 

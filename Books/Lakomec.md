@@ -69,3 +69,31 @@
 - psáno chronologicky
 - zásada 3 jednot
 - 5 dějství
+
+## Děj
+
+Příbšh vypráví o životě bohatého a lakomého Harpagona. Ten má 2 děti, Kleantesa a Elišku. Děti chtějí mít svatbu, otec je proti (nechce platit věno, chce si vzít Klentovu nevěstu Marianu a dětem už vybral protějšky). Harpagon se pohádá se svým synem o jeho nevestě, ale během této hádky někdo odcizí Harpagonovu truhlu s penězi. Při vyšetřování je obviněn Valér, Harpagonův správce domu, a budoucí ženich Elišky. Do domu dorazí Anselmo (otcem vybrán ženich Elišky), zde zjišťuje že Valér je synem zesnulého hraběte. Anselmo prohlašuje že on je ten zesnulý hrabě a že Valér je jeho syn a Mariana jeho dcera. Dílo končí štastně.
+
+## Postavy
+
+- Harpagon -> z latiny (harpago: loupit)
+  - lakomý, lichvář
+  - vdovec
+  - pro peníze dokáže obětovat svoji rodinu
+- Kleantes
+  - syn
+  - nechápe otcovu posedlost penězi
+  - miluje Marianu
+- Eliška
+  - dcera
+  - miluje Valér
+- Valér
+  - miluje Elišku
+  - syn hraběte Anselma
+- Anselm
+  - vybrán jako ženich Elišky
+  - šlechtic
+  - otec Valéra a Mariany
+- Mariana
+  - chudá dívka
+  - milue Kleantese
