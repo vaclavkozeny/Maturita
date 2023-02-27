@@ -44,7 +44,13 @@
   - byl francouzský spisovatel, představitel realismu a romantismu, novinář a kritik
   - Lidská komedie
     - cyklus devadesáti sedmi románů a povídek
-
+## Časoprostor
+• 19. stoleti, Habsburská monarchie -
+Německý Brod, kde byl zatčen a následná cesta do Brixenu
+##Jazyk a styl:
+• čtivýy, hovorový, citove zabarvený, místy vulgární
+• Novinársky slang, místy archaismy.
+• Humorné ladění skladby často přechází v parodii, satiru a ironi
 ## Děj
 
 Kniha popisuje Havlíčkovo zatčení a následný přesun do Brixenu. V díle se baví s Měsíčkem. Dílo kritizuje společnost a vládu Rakouska-Uherska.
