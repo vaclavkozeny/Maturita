@@ -47,7 +47,8 @@
 ## Časoprostor
 • 19. stoleti, Habsburská monarchie -
 Německý Brod, kde byl zatčen a následná cesta do Brixenu
-##Jazyk a styl:
+
+## Jazyk a styl:
 • čtivýy, hovorový, citove zabarvený, místy vulgární
 • Novinársky slang, místy archaismy.
 • Humorné ladění skladby často přechází v parodii, satiru a ironi
