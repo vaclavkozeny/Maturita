@@ -14,10 +14,10 @@
 
 ### Další autorova díla
 
-- Křest svatého Vladimíra (1877)
+- **Křest svatého Vladimíra** (1877)
   - příběh boha Peruna (slovanský bůh hromu). Car chtěl, aby mu na jeho svátek Perun zahřměl na oslavu, Perun to odmítl splnit
   - ironizuje moc státního aparátu
-- Epigramy (1845)
+- **Epigramy** (1845)
   - krátké pointované veršované skladby.
   - Většinou se jedná o kritiku, parodii či satiru.
 
@@ -32,15 +32,15 @@
 
 ## Další autoři
 
-- Karel Jaromír Erben
+- **Karel Jaromír Erben**
   - byl český historik, právník, archivář, spisovatel, básník, překladatel a sběratel českých lidových písní a pohádek
   - Kytice z pověstí národních
     - sbírka 13 lyrickoepických básní
-- Božena Němcová
+- **Božena Němcová**
   - byla česká spisovatelka
   - [Babička](./Babicka.md)
     - světově proslulé dílo, napsané po smrti syna Hynka
-- Honoré de Balzac
+- **Honoré de Balzac**
   - byl francouzský spisovatel, představitel realismu a romantismu, novinář a kritik
   - Lidská komedie
     - cyklus devadesáti sedmi románů a povídek
