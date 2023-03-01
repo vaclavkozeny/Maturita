@@ -62,17 +62,21 @@
 
 ## Vyprávěcí způsob
 
-- er forma
+- vypraveč
+  - mimo děj
+  - mluví v er formě
+- rozhovory mezi postavami
 
 ## Děj
 
-Kniha začíná příchodem Krysaře do města Hammeln, aby odstranil krysy. Jako první potká dívku jménem Agnes a zalíbí se mu i on jí. Když krysař odstraní krysy a má dostat zaplaceno, tak to radní odmítnou a nezaplatí. To Krysaře naštve a použije svou kouzelnou flétnu na vyhánění krys na lidi. Dovede všechny obyvatele, až na rybáře Jörgena, nad propast a shazuje je. Kniha končí tím, že Jörgen nalezne malé dítě a vydá se mu hledat potravu. Tímto je symbolizován nový začátek.
+Kniha začíná příchodem Krysaře do města Hammeln, aby odstranil krysy. Jako první potká dívku jménem Agnes a zalíbí se mu i on jí. Na scéně se objevuje bývalý přítel Agens Krisián, který se zmocní Agnes. Agnes se ze zoufalství vrhne ze skály. Když se to dozví krysař v návalu smutku použije svou kouzelnou flétnu na vyhánění krys na lidi. Dovede všechny obyvatele i sebe, až na rybáře Jörgena, nad propast a shazuje je (i on umírá). Kniha končí tím, že Jörgen nalezne malé dítě a vydá se mu hledat potravu. Tímto je symbolizován nový začátek.
 
 ## Postavy
 
-- Krysař – cizinec, odstraňuje krysy
+- Krysař – cizinec, tajemný, samotář, podivín odstraňuje krysy
 - Agnes – dívka, zalíbí se Krysařovi, má ovšem přítele
-- Jörgen– rybář, zpomalený, věci chápe až s odstupem času
+- Dlouhý Kristián - touží po spokojeném průměrném životě
+- Jörgen – rybář, zpomalený, věci chápe až s odstupem času
 
 ## Jazykové prostředky
 

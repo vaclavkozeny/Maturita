@@ -75,10 +75,21 @@ Quasimodo je jako malý odveden do chrámu Notre-Dame, kde z něho Frollo uděl�
 
 ## Postavy
 
-- Quasimodo – zvoník, zamilován do Esmeraldy
-- Esmeralda – dívka, je zamilovaná do Phoebuse
-- Frollo – kněz v Notre-Dame, zamilován do Esmeraly
-- Phoebus –královský lučištník
+- Quasimodo
+  - zvoník, ošklivý
+  - ušlechtilé city (kontrast)
+  - zamilován do Esmeraldy
+- Esmeralda
+  - dívka, naivní, tanečnice
+  - je zamilovaná do Phoebuse
+- Frollo
+  - zlý, pokrytec
+  - kněz v Notre-Dame
+  - zamilován do Esmeraly
+- Phoebus
+  - královský lučištník
+  - zamilován do Esmeraldy, sleduje její popravu
+  - kontrast (překrásný zevnějšek, odporný vnitřek)
 
 ## Jazykové prostředky
 

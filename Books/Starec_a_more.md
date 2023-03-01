@@ -75,12 +75,19 @@
 - život chudých kubánských rybářů
 <hr/>
 
-Rybář Santiago nemůže už několik dní chytit žádnou rybu, nemá co jíst a opouští ho jeho pomocník Manolin. Jednoho dne se Santiago rozhodne a vydá se na část moře, kde ještě nikdo nebyl. Po několika dnech se na něj usměje štěstí a chytí obrovskou rybu, ale ryba má takovou sílu, že odtáhne rybáře i jeho loď na opuštěné moře. Rybář se nevzdá a nakonec rybu zabije a míří s ní domů. Bohužel mu jí cestou domů sežerou žraloci. Vyčerpaný rybář dorazí domů i s kostrou. Druhý den se u kostry shromáždí dav a obdivují kostru. Nakonec rybář získal zpět svůj respekt.
+Rybář Santiago nemůže už několik dní (84) chytit žádnou rybu, nemá co jíst a opouští ho jeho pomocník Manolin. Jednoho dne se Santiago rozhodne a vydá se na část moře, kde ještě nikdo nebyl. Po několika dnech se na něj usměje štěstí a chytí obrovskou rybu, ale ryba má takovou sílu, že odtáhne rybáře i jeho loď na opuštěné moře. Rybář se nevzdá a nakonec rybu zabije a míří s ní domů. Bohužel mu jí cestou domů sežerou žraloci. Vyčerpaný rybář dorazí domů i s kostrou. Druhý den se u kostry shromáždí dav a obdivují kostru. Nakonec rybář získal zpět svůj respekt.
 
 ## Postavy
 
-- Santiago – rybář, chudý, samotář
-- Manolin – chlapec, obětavý, rybářův pomocník
+- Santiago
+  - odvážný rybář
+  - pevná vůle
+  - chudý
+  - samotář
+- Manolin
+  - chlapec
+  - obětavý
+  - má rád starce, pomáhá mu
 
 ## Jazykové prostředky
 
