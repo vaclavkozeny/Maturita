@@ -73,7 +73,7 @@
 
 ## Postavy:
 
-- Babička – pracovitá, moudrá
+- Babička – pracovitá, moudrá, nábožná
 - Barunka – vnučka babičky
 - Viktorka – žije v lese, psychicky nemocná
 
