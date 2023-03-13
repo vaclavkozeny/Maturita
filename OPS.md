@@ -1,7 +1,7 @@
 | Otázka                                                | stav |
 | ----------------------------------------------------- | ---- |
 | 1. [Vrstva síťového přístupu, Ethernet](./OPS/L1.md)  | NO   |
-| 2. Aplikační vrstva TCP/IP                            | NO   |
+| 2.[ Aplikační vrstva TCP/IP](./OPS/L7.md)             | NO   |
 | 3. Síťový operační systém – Linux                     | NO   |
 | 4. Referenční model OSI/ISO a síťóvé prvky            | NO   |
 | 5. VLAN, návrh podnikové sítě                         | NO   |
