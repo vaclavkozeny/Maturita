@@ -1,6 +1,6 @@
 # Sloh
 
-- min: 250 slov
+- min: 300 slov
 - čas: 110 minut
 
 ## Vypravování
@@ -40,6 +40,7 @@
 
 ## Charakteristika
 
+- Hlavně charakteristika člověka
 - popisný slohový útvar
 - zachycuje povahové i fyzické vlastnosto člověka nebo fiktivní posatvy
 - vztah k lidem, zájmy, schopnosti
@@ -55,6 +56,19 @@
 | Nepřímá         | Každému do očí řekl, co si o něm myslí |
 | Vnějsí          | Ná modrá triko a černé kalhoty         | **co vidíme** (vzhled, oblečení) |
 | Vnitřní         | Je hodný a milý                        | povahové rysy, vlastnosti        |
+
+## Popis
+
+- hlavně popis předmětu
+- vzhled, materiál a funkce
+- jazyk: neutrální a srozumitelný
+- **odborné výrazy** a **zkratky**
+
+| Část          |                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Úvod          | základní informace o popisovaném předmětu (kde se s ním můžeme setkat atd...)                                           |
+| Samotný popis | vzhled, materiál, funkci a další důležité vlastnosti; věnovat jeden odstavec jednomu kritériu                           |
+| Závěr         | vyzdvihnout ty nejdůležitější vlastnosti předmětu; nové podstatné informace, které se do těla z nějakého důvodu nevešly |
 
 ## Článek
 
@@ -79,3 +93,17 @@
   | Úvod         | zmíníme autory, žánr, rok vydání, případně další důležité informace; shrneme základní dějovou linii |
   | Vlastní text | kladné a záporné body; svůj vlastní názor na dílo (myslím si, zdá se mi, když to porovnám s)        |
   | Závěř        | shrneme všechny podstatné myšlenky                                                                  |
+
+## Líčení
+
+- subjektivně zabarvený popis
+- vyjadřuje svůj vztah a pocity které v něm vyvolává popisovaná věc
+- ideálně neco k čemu máme vztah
+- Jedná se totiž až o „básnický“ popis
+- slovní spojení **citově zabarvovat** a používat **neobvyklé výrazy**
+- vytvořit větu až poetického rázu
+- **Od detailu k celku**
+  - Zaměřte se nejprve na její detaily a na to, jak na vás působí
+  - Nevynechávejte ani takové věci, které vám přijdou zcela obyčejné
+  - Popište i barvu oné věci, pozici, v jaké se nachází
+  - Až poté se na věc podívejte jako na celek.
