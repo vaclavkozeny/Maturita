@@ -50,3 +50,13 @@ mikrokontrolérů Atmel AVR, popis blokového schématu`
 ## Atmel AVR
 
 - rodina 8bit kontrolerů
+- RISC
+- Hardvard
+- datová paměť - 4Kb (SRAM)
+- rozšíření datové paměti, vnitřní uložiště - 2Kb (EEPROM)
+- 2 cyklová násobička
+- integrované periferie
+  - čítače, časovače
+  - ADC
+  - 3 sériové komunikace
+- 53 vstupně výstupních pinů (I/O)
