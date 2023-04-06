@@ -2,9 +2,9 @@
 | ---------------------------------------------------------- |
 | 14. [Mikrokontroléry (mcu) – základní pojmy](./MIT/MCU.md) |
 | 15. Připojování externích periferií k mcu                  |
-| 16. Čítačové podsystémy mcu                                |
+| 16. [Čítačové podsystémy mcu](./MIT/Citace.md)             |
 | 17. Internet věcí                                          |
-| 18. Přerušovací podsystém mcu                              |
+| 18. [Přerušovací podsystém mcu](./MIT/Preruseni.md)        |
 | 19. Vyšší programovací jazyky pro mcu                      |
 | 20. Sériová rozhraní mcu                                   |
 | 21. Procesory                                              |
