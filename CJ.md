@@ -1,8 +1,10 @@
 # **Český jazyk**
 
-## [Sloh](./Sloh.md)
+## [Sloh](./CJ/Sloh.md)
 
-## [Časová osa](./Casova_osa.md)
+## [Časová osa](./CJ/Casova_osa.md)
+
+## [Čárky](./CJ/Carky.md)
 
 <hr>
 
