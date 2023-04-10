@@ -2,7 +2,7 @@
 
 `Tlačítka, klávesnice, LED, segmentové a inteligentní displeje`
 
-<img src='./images/pvk40.png'>
+<img src='./images/pvk40.PNG'>
 
 ## Tlačítka
 
@@ -13,7 +13,7 @@
 - `+` lze mačkat více součaně
 - `-` vysoká odsazenost pinů (každé tlačítko má svůj)
 
-<img src='./images/tlac_basic.png'>
+<img src='./images/tlac_basic.PNG'>
 
 ### Pomocí multiplexu
 
@@ -27,7 +27,7 @@
 - čítač ukazuje na aktuální adresu MUX
 - Přečteme data z MUX
 
-<img src='./images/tlac_mcu.png'>
+<img src='./images/tlac_mcu.PNG'>
 
 ### Dekodér
 
@@ -39,10 +39,10 @@
 - `-` když zmáčknu 2 a více kláves, nemusí se přečíst správně (**Phantom button**)
   - jakoby do tvaru L
 
-<img src='./images/phantom.png' style='width: 300px'>
+<img src='./images/phantom.PMG' style='width: 300px'>
 
 - využívá se na **klávesnice**
 
 - když je tlačítko zmáčknuto víme jeho polohu (horizontální a vertikální)
 
-<img src='./images/tlac_matrix.png'>
+<img src='./images/tlac_matrix.PNG'>
