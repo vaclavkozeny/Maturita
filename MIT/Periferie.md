@@ -2,7 +2,7 @@
 
 `Tlačítka, klávesnice, LED, segmentové a inteligentní displeje`
 
-<img src='./images/pvk40.PNG'>
+<img src='./images/pvk40.png'>
 
 ## Tlačítka
 
