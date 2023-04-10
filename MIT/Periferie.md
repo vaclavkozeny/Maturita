@@ -39,7 +39,7 @@
 - `-` když zmáčknu 2 a více kláves, nemusí se přečíst správně (**Phantom button**)
   - jakoby do tvaru L
 
-<img src='./images/phantom.PMG' style='width: 300px'>
+<img src='./images/phantom.PNG'>
 
 - využívá se na **klávesnice**
 
