@@ -9,11 +9,24 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 
 - sada pravidel
 
+## PDU
+
+- data
+- každá vrstva přidá svou specifickou informaci
+
+## Zapouzdření
+
+- vložení PDU z vyšší vrstvy do těla dat
+
 ## Model
 
 - vrstvy spolu komunikují na základě protokolů
 - na výrobě se mohou podílet různí výrobci
 - změny v jedné vrstvě neovlivní vrstvy další
+
+## OSI/ISO vs TCPIP
+
+<image src="./images/ositcp.jpg">
 
 ## OSI/ISO
 
@@ -93,3 +106,19 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 - PDU: **segment**
 
 <image src="./images/l4head.png">
+
+### L5
+
+- session layer
+- spravuje komunikaci mezi dvěma aplikacemi
+- synchronizace dat
+- NetBIOS
+
+### L6
+
+- Presentation layer
+- kóduje, komprimuje, šifruje, hashuje
+
+### [L7](./L7.md)
+
+- vrstvu představují konkrétní aplikace
