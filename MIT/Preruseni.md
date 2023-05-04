@@ -57,7 +57,7 @@ Atmel AVR`
 - používá se když nějaké přerušní obsluhujeme aby se nemohlo skočit na další
 - na začátku obsluhy ho nastavíme na 0 a na konci zpět na 1
 
-<img src='./images/SREG.png'>
+<img src='./images/sreg.PNG'>
 <hr/>
 
 - Také lze povolit external interrupt
@@ -66,7 +66,7 @@ Atmel AVR`
   - povoluje jednotlivé externí přerušení
   - každé má jeden bit a jeden vector
 
-<img src='./images/EIMSK.png'>
+<img src='./images/eimsk.PNG'>
 <hr/>
 
 - Když je zaznamemén externí interupt
@@ -74,7 +74,7 @@ Atmel AVR`
 - MCU skočí na přizazení obslužný vector
 - to se dá považovat za **příznak**
 
-<img src='./images/eifr.png'>
+<img src='./images/eifr.PNG'>
 
 ## Priorita
 

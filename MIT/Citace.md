@@ -9,7 +9,7 @@ Dohlížecí časovač WDT`
 - přičítá nebo odečítá jedničku
 - když přeteče dostanu o tom zmínku
 
-<img src='./images/atmega.png'>
+<img src='./images/atmega.PNG'>
 
 - `TCNTn` -> timer/counter
 - `OCRn` -> output compare register
@@ -17,7 +17,7 @@ Dohlížecí časovač WDT`
   - porovnává se s aktuální hodnotou čítače
   - dostaneme znamení o dosažené hodnotě
 
-<img src='./images/atmega2.png'>
+<img src='./images/atmega2.PNG'>
 
 - `count Increment or decrement TCNT0 by 1`
 - `direction Selects between increment and decrement`
@@ -32,7 +32,7 @@ Dohlížecí časovač WDT`
 - připojen na externí pin
 - třeba tlačítka nebo jiná externí vstupní periferie
 
-<img src = './images/counter.png'>
+<img src = './images/counter.PNG'>
 
 ## Co to je časovač
 
@@ -43,7 +43,7 @@ Dohlížecí časovač WDT`
 - prescaler zvyšuje 'velikost'
   - dělí puls proto register nepřeteče tak rychle
 
-<img src = './images/timer.png'>
+<img src = './images/timer.PNG'>
 
 ## Capture
 
@@ -51,14 +51,14 @@ Dohlížecí časovač WDT`
 - umožňuje zachytit okamžik, kdy na pinu dojde ke změně úrovně
 - zaznamená hodnotu v tomto okamžiku do záchytného registru
 
-<img src='./images/capture.png'>
+<img src='./images/capture.PNG'>
 
 ## Compare
 
 - časovač doplněn komparátorem a porovnávacím registrem
 - vyšle signál, když je hodnota v čítači a OCRn stejná
 
-<img src='./images/compare.png'>
+<img src='./images/compare.PNG'>
 
 ## PWM
 
@@ -66,11 +66,11 @@ Dohlížecí časovač WDT`
 - slouží pro generování signálu s nastavitelnou střídou
 - střída = délka puslu / perioda
 
-<img src='./images/pwm.png'>
+<img src='./images/pwm.PNG'>
 
 <br/>
 
-<img src='./images/pwm2.png'>
+<img src='./images/pwm2.PNG'>
 
 ## Watch Dog timer
 
