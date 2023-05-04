@@ -15,7 +15,7 @@
 | 1. [Vrstva síťového přístupu, Ethernet](./OPS/L1.md)            |
 | 2. [Aplikační vrstva TCP/IP](./OPS/L7.md)                       |
 | 3. Síťový operační systém – Linux                               |
-| 4. Referenční model OSI/ISO a síťóvé prvky                      |
+| 4. [Referenční model OSI/ISO a síťóvé prvky](./OPS/OSIISO.md)   |
 | 5. VLAN, návrh podnikové sítě                                   |
 | 6. Spolehlivá síť – STP, Etherchannel, FHRP                     |
 | 7. Sítě standardu IEEE 802.11                                   |
