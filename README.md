@@ -40,9 +40,9 @@
 | 24. Zařízení pro ukládání dat                                      |
 | 25. Grafické karty                                                 |
 | 26. Výstupní zařízení PC                                           |
-| 1. Základní programové konstrukce                                  |
+| 1. [Základní programové konstrukce](./PRG/Promene.md)              |
 | 2. Algoritmus, algoritmická složitost                              |
-| 3. Strukturované datové typy                                       |
+| 3. [Strukturované datové typy](./PRG/strukturoveDT.md)             |
 | 4. Spojové struktury                                               |
 | 5. Objektové programování I                                        |
 | 6. Objektové programování II                                       |
