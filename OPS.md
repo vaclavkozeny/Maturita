@@ -6,7 +6,7 @@
 | 4. [Referenční model OSI/ISO a síťóvé prvky](./OPS/OSIISO.md)     |
 | 5. VLAN, návrh podnikové sítě                                     |
 | 6. Spolehlivá síť – STP, Etherchannel, FHRP                       |
-| 7. Sítě standardu IEEE 802.11                                     |
+| 7. [Sítě standardu IEEE 802.11](./OPS/WLAN.md)                    |
 | 8. Protokol TCP, UDP                                              |
 | 9. Adresace v internetu IPv4, cesta datagramu sítí                |
 | 10. Protokol IPv6                                                 |
