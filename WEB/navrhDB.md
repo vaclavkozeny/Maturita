@@ -10,5 +10,3 @@
 - umožňuje lépe vytvořit strukturu, která bude efektivně ukládat a používat data​
 
 ## Entita
-
-pokazilo se to
