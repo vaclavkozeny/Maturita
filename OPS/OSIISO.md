@@ -9,6 +9,10 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 
 - sada pravidel
 
+## Rozhraní
+
+- posílá a přijímá data
+
 ## PDU
 
 - data
@@ -42,6 +46,7 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 - physical layer
 - definuje elektrické a fyzikální vlastnosti
 - modulace signálu
+- stará se o dráty (i bezdrát)
 
 - **Hub**
   - rozbočovač
@@ -52,6 +57,7 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 
 ### L2
 
+- [více zde](./L1.md)
 - link layer
 - umožnuje komunikaci v LAN
 - uspořádává data do rámců (**frame**)
@@ -82,6 +88,7 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 - network layer
 - protokoly pro směrování dat
 - volí nejlepší cestu
+- Media independent
 - **IP adresy**
 
 - PDU: **packet**
@@ -103,6 +110,8 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 - přídává **čísla portu** a protokol **TCP** / **UDP**
 - stará se o
 - umí segmentovat data
+- dostane data od relační vrstvy, rozdělí ji na menší části - segmenty (?) a předá vrstvě L3
+- segmentace, zpětné složení dat, číslování segmentů, multiplex segmentů
 - PDU: **segment**
 
 <image src="./images/l4head.png">
@@ -110,7 +119,8 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 ### L5
 
 - session layer
-- spravuje komunikaci mezi dvěma aplikacemi
+- spravuje komunikaci mezi dvěma aplikacemi¨
+- Zakládá a udržuje relaci (session) mezi aplikacemi
 - synchronizace dat
 - NetBIOS
 
@@ -119,6 +129,7 @@ Popis standardního chování opakovače, mostu, přepínače, směrovače, L3 s
 - Presentation layer
 - kóduje, komprimuje, šifruje, hashuje
 
-### [L7](./L7.md)
+### L7
 
 - vrstvu představují konkrétní aplikace
+- [více zde](./L7.md)

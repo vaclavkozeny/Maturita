@@ -33,6 +33,10 @@ Změna vlastníka a oprávnění
   - prohlížeč
   - ...
 
+## Připojení uživatelů
+
+- konzole -> připojení přes Telnet / SSH (i lokálně)
+
 ## Souborový systém
 
 - zajišťuje ukládání a čtení dat
@@ -40,6 +44,14 @@ Změna vlastníka a oprávnění
 <image src="./images/filesystem.webp">
 
 - hierarchicky se ukládají v podobě souborů a adresářů
+- nepoužívá disky (C:\, D:\ ) jako základ struktury
+- základem je root (/)
+- honorable mentions
+  - /bin - binární soubory, zaručují chod systému (C:\Program Files)
+  - /lib - knihovny pro chod systému
+  - /proc - informace o běžících procesech
+  - /home - domovský adresář všech uživatelů (C:\Users)
+  - /media (CD mechanika) a /mnt (disky) - další úložiště
 
 <image src="./images/linuxfiles.png">
 
@@ -58,6 +70,10 @@ Změna vlastníka a oprávnění
   - zvýšen limit maximální velikosti
   - nanosekundová časová razítka
   - pre-alokace
+- **NTFS**
+  - pro Windows
+  - Linux je umožňuje číst
+  - nezmiňovat před Prokešem pokud se nezeptá!
 
 ### Druhy souborů
 
@@ -92,6 +108,22 @@ Změna vlastníka a oprávnění
     - **Read**
     - **Write**
     - **Execute** (u directory možnost vstupu)
+
+<image src="./images/prava1.PNG">
+
+- d
+  - typ souboru (složka)
+- rwxr-xr-x
+  - oprávnění
+- čísla - 4, 34
+  - počet pevných odkazů
+- první root
+  - vlastník
+- druhý root
+  - skupina vlastníků
+- velikost v bytech
+- datum poslední úpravy
+- název složky
 
 <image src="./images/prava.png">
 
