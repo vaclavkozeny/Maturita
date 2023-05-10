@@ -91,9 +91,9 @@ Děj se odehrává v Normandii v době prusko-francouzské války. Deset lidí s
 
 ## Postavy
 
-- Loiseaovy – obchodní s vínem / jeho manželka
+- Loiseaovy – podvodník, obchodní s vínem / jeho manželka
 - Carré-Lamadonovy – Továrník / jeho manželka
-- Brévillovy – člen městské rady / jeho manželka
+- Brévillovy – hrabě, člen městské rady / jeho manželka
 - Cornudet – demokrat, alkoholik
 - Alžbeta Roussetová – Kulička, prostitutka
 - Jeptišky

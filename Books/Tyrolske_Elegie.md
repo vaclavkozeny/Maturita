@@ -62,12 +62,13 @@
 - Havlíčkovi je poslán, že musí na ozdravné léčení
 - vrchol díla: 8 zpěv, příhoda o splašených koní
 
-- kniha popisuje Havlíčkovo zatčení a následný přesun do Brixenu
+- kniha popisuje Havlíčkovo zatčení, loučení s rodinou a následný přesun do Brixenu
 - dílo kritizuje společnost a vládu Rakouska-Uherska
 
 ## Postavy
 
 - sám Havlíček - ironický, odvážný, výsměšný
+- Dedera - policejní komisař, stráž
 
 ## Prostředky
 
