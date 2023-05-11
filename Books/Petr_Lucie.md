@@ -79,7 +79,13 @@ Jde o jemně kreslený příběh tragické lásky mladých milenců zahalený st
 
 <hr/>
 
-Lidé se při bombardování Paříže schovávají do metra, Petr také. Zde poprvé potkává Lucii, nepromluví spolu, jenom se chytnou za ruku. Pár dní poté se znovu potkají a Petr se na Lucii usměje a dají se do řeči. Potkávají se stále častěji, až se Petr jednoho den zeptá, zdali by ho Lucie nenamalovala. Ta souhlasí a o pár dní později přichází Petr k Lucii domů. Lucie maluje a při tom povídá o svém životě. Jednoho dne se rozhodnou jít do kostela si poslechnout zpěvy, ale kostel je trefen dělostřelectvem a bortí se. Nakonec jsou v kostele Petr s Lucií zavaleni mohutným pilířem a umírají.
+Lidé se při bombardování Paříže schovávají do metra, Petr také.
+Zde poprvé potkává Lucii, nepromluví spolu, jenom se chytnou za ruku.
+Pár dní poté se znovu potkají a Petr se na Lucii usměje a dají se do řeči.
+Potkávají se stále častěji, až se Petr jednoho den zeptá, zdali by ho Lucie nenamalovala.
+Ta souhlasí a o pár dní později přichází Petr k Lucii domů. Lucie maluje a při tom povídá o svém životě.
+Jednoho dne se rozhodnou jít do kostela si poslechnout zpěvy, ale kostel je trefen dělostřelectvem a bortí se.
+Nakonec jsou v kostele Petr s Lucií zavaleni mohutným pilířem a umírají.
 
 ## Postavy
 
