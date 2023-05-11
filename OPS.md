@@ -7,8 +7,8 @@
 | 5. [VLAN, návrh podnikové sítě](./OPS/VLAN.md)                    |
 | 6. [Spolehlivá síť – STP, Etherchannel, FHRP](./OPS/STP.md)       |
 | 7. [Sítě standardu IEEE 802.11](./OPS/WLAN.md)                    |
-| 8. Protokol TCP, UDP                                              |
-| 9. Adresace v internetu IPv4, cesta datagramu sítí                |
+| 8. [Protokol TCP, UDP](./OPS/TCP.md)                              |
+| 9. [Adresace v internetu IPv4, cesta datagramu sítí](./OPS/v4.md) |
 | 10. [Protokol IPv6](./OPS/v6.md)                                  |
 | 11. Zabezpečení komunikace, ACL                                   |
 | 12. Směrování, směrovací tabulky, směrovací protokoly             |

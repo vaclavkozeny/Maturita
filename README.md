@@ -21,8 +21,8 @@
 | 5. [VLAN, návrh podnikové sítě](./OPS/VLAN.md)                     |
 | 6. [Spolehlivá síť – STP, Etherchannel, FHRP](./OPS/STP.md)        |
 | 7. [Sítě standardu IEEE 802.11](./OPS/WLAN.md)                     |
-| 8. Protokol TCP, UDP                                               |
-| 9. Adresace v internetu IPv4, cesta datagramu sítí                 |
+| 8. [Protokol TCP, UDP](./OPS/TCP.md)                               |
+| 9. [Adresace v internetu IPv4, cesta datagramu sítí](./OPS/v4.md)  |
 | 10. [Protokol IPv6](./OPS/v6.md)                                   |
 | 11. Zabezpečení komunikace, ACL                                    |
 | 12. Směrování, směrovací tabulky, směrovací protokoly              |
@@ -57,8 +57,8 @@
 | 15. [Jazyk SQL](./WEB/SQL.md)                                      |
 | 16. [Výběr dat v SQL](./WEB/SQLselect.md)                          |
 | 17. [Prostředky pro návrh webových aplikací](./WEB/HTML.md)        |
-| 18. Možnosti pozicování na webových stránkách                      |
-| 19. Frameworky architektury MVC                                    |
+| 18. [Možnosti pozicování na webových stránkách](./WEB/pozice.md)   |
+| 19. [Frameworky architektury MVC](./WEB/mvc.md)                    |
 | 20. [Ověřování identity v prostředí internetu](./WEB/identita.md)  |
 | 21. Návrh webové aplikace ASP.NET                                  |
 | 22. [AJAX, REST](./WEB/AJAX.md)                                    |
