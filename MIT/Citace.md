@@ -8,6 +8,9 @@ Dohlížecí časovač WDT`
 - je to register
 - přičítá nebo odečítá jedničku
 - když přeteče dostanu o tom zmínku
+- využití
+  - WD timer
+  - Generování přenosové rychlosti
 
 <img src='./images/atmega.PNG'>
 
@@ -27,6 +30,11 @@ Dohlížecí časovač WDT`
 - `bottom Signalizes that TCNT0 has reached minimum value (zero)`
 
 ## Co to je čítač
+
+- ATMega64
+
+  - 2x 8bit
+  - 1x 16bit
 
 - počítá pulsy vnějšího signálu
 - připojen na externí pin
@@ -63,8 +71,11 @@ Dohlížecí časovač WDT`
 ## PWM
 
 - pulse width modulation
-- slouží pro generování signálu s nastavitelnou střídou
+- mohu měnit periodu a střídu
+- slouží pro generování signálu s nastavitelnou střídou a periodou
 - střída = délka puslu / perioda
+
+<image src="./images/pwm3.png">
 
 <img src='./images/pwm.PNG'>
 

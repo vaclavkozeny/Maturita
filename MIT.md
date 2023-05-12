@@ -7,7 +7,7 @@
 | 16. [Čítačové podsystémy mcu](./MIT/Citace.md)                  |
 | 17. Internet věcí                                               |
 | 18. [Přerušovací podsystém mcu](./MIT/Preruseni.md)             |
-| 19. Vyšší programovací jazyky pro mcu                           |
+| 19. [Vyšší programovací jazyky pro mcu](./MIT/vyssi.md)         |
 | 20. Sériová rozhraní mcu                                        |
 | 21. Procesory                                                   |
 | 22. [Základní desky](./MIT/MB.md)                               |

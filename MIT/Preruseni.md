@@ -25,8 +25,8 @@ Atmel AVR`
 
 ## Vektor
 
-- adresa v paměti
-- nachází se zde obslužné rutiny pro přerušení
+- adresa v paměti programu
+- nachází se zde obslužné rutiny pro přerušení (asi její adresa)
 - umístěn na začátek paměti FLASH
 - **General Interrupt Control Register**
   - 1 bit ovládá umístění (INPUT VECTOR SELECT | **IVSEL**)
@@ -43,6 +43,12 @@ Atmel AVR`
   - Compare
   - Capture
   - Overflow
+
+## Příznak
+
+- **oznámení události**
+- můzu si ho přečíst
+- když je povoleno přerušení -> spouští se obsluha
 
 ## Povolení
 
@@ -67,19 +73,13 @@ Atmel AVR`
   - každé má jeden bit a jeden vector
 
 <img src='./images/eimsk.PNG'>
-<hr/>
-
-- Když je zaznamemén externí interupt
-- V **EIFR** (External Interrupt Flag Register) se nasatví bit na jedna
-- MCU skočí na přizazení obslužný vector
-- to se dá považovat za **příznak**
-
-<img src='./images/eifr.PNG'>
 
 ## Priorita
 
 - jaké přerušení má být obslouženo dříve
-- u **ATmega64** - pořadí interrupt vektorů v paměti určuje prioritu
+- u **ATmega64**
+  - pořadí interrupt vektorů v paměti určuje prioritu
+  - **adresa vektoru = priorita**
 
 ## Kontext
 
