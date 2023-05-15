@@ -5,13 +5,13 @@
 | 14. [Mikrokontroléry (mcu) – základní pojmy](./MIT/MCU.md)      |
 | 15. [Připojování externích periferií k mcu](./MIT/Periferie.md) |
 | 16. [Čítačové podsystémy mcu](./MIT/Citace.md)                  |
-| 17. Internet věcí                                               |
+| 17. [Internet věcí](./MIT/iot.md)                               |
 | 18. [Přerušovací podsystém mcu](./MIT/Preruseni.md)             |
 | 19. [Vyšší programovací jazyky pro mcu](./MIT/vyssi.md)         |
 | 20. Sériová rozhraní mcu                                        |
 | 21. Procesory                                                   |
 | 22. [Základní desky](./MIT/MB.md)                               |
 | 23. Paměti                                                      |
-| 24. Zařízení pro ukládání dat                                   |
+| 24. [Zařízení pro ukládání dat](./MIT/HDDSSD.md)                |
 | 25. Grafické karty                                              |
 | 26. Výstupní zařízení PC                                        |
