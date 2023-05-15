@@ -47,7 +47,7 @@
       - SW přístupny
   - podpora 16/32bit bitových dat
     - `ADW`
-      - práce se 16bit konstantou
+    - práce se 16bit konstantou
 
 ## Optimalizace kompilátoru
 
