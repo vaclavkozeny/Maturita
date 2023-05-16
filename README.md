@@ -43,10 +43,10 @@
 | 1. [Základní programové konstrukce](./PRG/Promene.md)                   |
 | 2. [Algoritmus, algoritmická složitost](./PRG/Algoritmus.md)            |
 | 3. [Strukturované datové typy](./PRG/strukturoveDT.md)                  |
-| 4. Spojové struktury                                                    |
+| 4. [Spojové struktury](./PRG/Spojove.md)                                |
 | 5. [Objektové programování I](./PRG/OOP1.md)                            |
 | 6. [Objektové programování II](./PRG/OOP2.md)                           |
-| 7. Podprogramy                                                          |
+| 7. [Podprogramy](./PRG/Podprogramy.md)                                  |
 | 8. Návrhové vzory I                                                     |
 | 9. Návrhové vzory II                                                    |
 | 10. Paralelní programování                                              |
