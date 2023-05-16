@@ -1,10 +1,36 @@
 # Strukturové datové typy
 
+`Strukturované datové typy, objekt, pole, kolekce, generické kolekce`
+
 - Objekty skládající se z několika komponent (členů)
 - Používá se pro uložení více spolu souvisejících prvků, které mohou být různého typu (na rozdíl od pole)
 - 2 druhy
   - **Homogenní** – komponenty jsou stejného typu
   - **Heterogenní** – komponenty různého typu
+
+## Objekt
+
+- abstraktní datový typ
+- všechny .NET funckce jsou jeho následníky
+- obsahuje vlastnosti, funkce
+- základní stavební kámen OOP
+- obsahuje možnost zapouzdření
+- existující objekty mohou být v programu uprovovány
+
+```CSharp
+public class User
+{
+  public int Id {get; set;}
+  public string FirstName {get; set;}
+  public string LastName {get; set;}
+  private string Password;
+
+  public override string ToString()
+  {
+    return $"({Id}) User's full name: {FirstName} {Lastname}";
+  }
+}
+```
 
 ## Struktura
 
@@ -19,15 +45,6 @@ struct Book{
     public string Author;
 }
 ```
-
-## Objekt
-
-- abstraktní datový typ
-- všechny .NET funckce jsou jeho následníky
-- obsahuje vlastnosti, funkce
-- základní stavební kámen OOP
-- obsahuje možnost zapouzdření
-- existující objekty mohou být v programu uprovovány
 
 ## Pole
 
