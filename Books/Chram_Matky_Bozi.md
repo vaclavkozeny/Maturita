@@ -8,7 +8,6 @@
 
 - francouzský romantik, prozaik a básník
 - vrcholný představitel romantismu
-- 1831-1864
 - vetšinu života prožil ve Francii
 - otec byl důstojník -> rodina se často stěhovala -> cestoval
 - první díla v poezii a próze odrážela ještě jeho vášnivé oddání víře a králi
