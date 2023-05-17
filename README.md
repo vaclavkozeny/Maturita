@@ -34,11 +34,11 @@
 | 18. [Přerušovací podsystém mcu](./MIT/Preruseni.md)                     |
 | 19. [Vyšší programovací jazyky pro mcu](./MIT/vyssi.md)                 |
 | 20. Sériová rozhraní mcu                                                |
-| 21. Procesory                                                           |
+| 21. [Procesory](./MIT/CPU.md)                                           |
 | 22. [Základní desky](./MIT/MB.md)                                       |
-| 23. Paměti                                                              |
+| 23. [Paměti](./MIT/Pameti.md)                                           |
 | 24. [Zařízení pro ukládání dat](./MIT/HDDSSD.md)                        |
-| 25. Grafické karty                                                      |
+| 25. [Grafické karty](./MIT/GPU.md)                                      |
 | 26. Výstupní zařízení PC                                                |
 | 1. [Základní programové konstrukce](./PRG/Promene.md)                   |
 | 2. [Algoritmus, algoritmická složitost](./PRG/Algoritmus.md)            |
