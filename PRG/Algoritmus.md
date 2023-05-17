@@ -57,6 +57,6 @@
   - použity fyzikální/hardwarové metody
     - snímky lávové lampy
     - mikroskopické jevy (např. tepelný šum)
-  - pseudonáhodná čísla
-    - zdánlivě náhodná čísla, později se sekvence opakují
-    - jako základ jsou použity např. hodiny v PC, které měří čas v ms
+- **pseudonáhodná čísla**
+  - zdánlivě náhodná čísla, později se sekvence opakují
+  - jako základ jsou použity např. hodiny v PC, které měří čas v ms
