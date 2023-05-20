@@ -95,7 +95,7 @@ class BinTree{
 ```
 
 - **Binary search tree** je velmi podobná struktura
-- platí pravidlo: `LeftChild < Parent < RightChild`
+  - platí pravidlo: `LeftChild < Parent < RightChild`
 
 ### Procházení stromu
 

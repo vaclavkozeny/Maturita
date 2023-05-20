@@ -34,7 +34,7 @@
 
 - `Erasable PROM`
 - stejné jako paměti PROM
-- navíc dokáží data smazat pomocí UV zařízení
+- navíc dokáží data smazat pomocí UV záření
 
 ##### EEPROM
 

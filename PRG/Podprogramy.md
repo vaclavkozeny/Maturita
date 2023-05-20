@@ -96,7 +96,7 @@ return; //když je návratový typ void
 - lze použít pro definování metod zpětného volání (callback)
 - delegáty lze zřetězit
 
-## Anonimní funkce
+## Anonymní funkce
 
 - anonymní funkce je blok kódu, který oproti funkci nemá identifikátor
 - obvykle se používá pro předávání do jiných funkcí

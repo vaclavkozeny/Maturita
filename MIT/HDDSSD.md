@@ -149,6 +149,7 @@
   - na každém disku jsou dvě parity
 
 <image src="./images/raid56.png">
+
 - **01**
   - nejdříve střídavě ukládáme na A a B, poté provedeme to samé na C a D
 - **10**
