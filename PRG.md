@@ -10,5 +10,5 @@
 | 8. Návrhové vzory I                                          |
 | 9. Návrhové vzory II                                         |
 | 10. Paralelní programování                                   |
-| 11. Architektury .NET                                        |
-| 12. Verzovací systémy                                        |
+| 11. [Architektury .NET](./PRG/dotnet.md)                     |
+| 12. [Verzovací systémy](./PRG/git.md)                        |

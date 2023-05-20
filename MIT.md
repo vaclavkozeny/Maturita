@@ -14,4 +14,4 @@
 | 23. [Paměti](./MIT/Pameti.md)                                   |
 | 24. [Zařízení pro ukládání dat](./MIT/HDDSSD.md)                |
 | 25. [Grafické karty](./MIT/GPU.md)                              |
-| 26. Výstupní zařízení PC                                        |
+| 26. [Výstupní zařízení PC](./MIT/vystupnizarizeni.md)           |

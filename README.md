@@ -39,7 +39,7 @@
 | 23. [Paměti](./MIT/Pameti.md)                                           |
 | 24. [Zařízení pro ukládání dat](./MIT/HDDSSD.md)                        |
 | 25. [Grafické karty](./MIT/GPU.md)                                      |
-| 26. Výstupní zařízení PC                                                |
+| 26. [Výstupní zařízení PC](./MIT/vystupnizarizeni.md)                   |
 | 1. [Základní programové konstrukce](./PRG/Promene.md)                   |
 | 2. [Algoritmus, algoritmická složitost](./PRG/Algoritmus.md)            |
 | 3. [Strukturované datové typy](./PRG/strukturoveDT.md)                  |
@@ -50,8 +50,8 @@
 | 8. Návrhové vzory I                                                     |
 | 9. Návrhové vzory II                                                    |
 | 10. Paralelní programování                                              |
-| 11. Architektury .NET                                                   |
-| 12. Verzovací systémy                                                   |
+| 11. [Architektury .NET](./PRG/dotnet.md)                                |
+| 12. [Verzovací systémy](./PRG/git.md)                                   |
 | 13. [Konceptuální návrh databáze](./WEB/navrhDB.md)                     |
 | 14. [Normalizace databáze](./WEB/normalizaceDB.md)                      |
 | 15. [Jazyk SQL](./WEB/SQL.md)                                           |
