@@ -10,27 +10,12 @@
 
 ## Objekt
 
-- abstraktní datový typ
-- všechny .NET funckce jsou jeho následníky
-- obsahuje vlastnosti, funkce
-- základní stavební kámen OOP
-- obsahuje možnost zapouzdření
-- existující objekty mohou být v programu uprovovány
-
-```CSharp
-public class User
-{
-  public int Id {get; set;}
-  public string FirstName {get; set;}
-  public string LastName {get; set;}
-  private string Password;
-
-  public override string ToString()
-  {
-    return $"({Id}) User's full name: {FirstName} {Lastname}";
-  }
-}
-```
+- instance 
+  - třídy - referenční typ (odkazuje na adresu) - new 
+  - struktury - hodnotový typ (obsahuje kopii objektu) 
+- blok paměti, který byl alokován třídou/strukturou 
+- program může vytvořit několik objektů stejné třídy/struktury 
+- v C# nejvyšší základní třída 
 
 ## Struktura
 
