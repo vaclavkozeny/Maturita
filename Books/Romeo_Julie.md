@@ -2,7 +2,7 @@
 
 - Wiliam Shakespeare
 - 1595
-- Literární druh: Drama
+- Literární druh: Epika
 - Žánr: Drama
 
 ## O autorovi a období
