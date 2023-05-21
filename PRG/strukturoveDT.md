@@ -61,3 +61,11 @@ Console.WriteLine($"První položka z pole: {pole[0]}");
 - obecné kolekce
 - Datový typ se specifikuje ve chvíli vytvoření instance
 - Generický typ slouží jako zástupce pro budoucí datový typ
+
+### Negenerické kolekce
+
+- přebírají jakýkoli datový typ
+
+### Čtení prvků z kolekce
+
+- cyklus foreach iteruje přes kolekce
