@@ -52,16 +52,9 @@ Console.WriteLine($"První položka z pole: {pole[0]}");
 
 ## Kolekce
 
-- soubor dat
+- **soubor dat**, většinou stejného typu - ke specifickému účelu
 - slouží jako úložiště objektů a zajištění přístupu k nim
-- např.
-  - list
-  - pole
-  - seznam
-  - Tree
-  - Dictionary
-  - Stack – LIFO (Last In First Out)
-  - Queue – FIFO (First In First Out)
+- list, pole, seznam, strom, slovník, zásobník, fronta...
 
 ### Generická kolekce
 
