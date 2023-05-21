@@ -74,7 +74,7 @@
 
 - **git init**
   - vytvoří v aktuální složce lokální repozitář
-- **git add .**
+- **git add --all**
   - přidá vybrané soubory (. = všechno) do tzv. staging area
 - **git commit -m „název commitu“**
   - vytvoří lokální commit ze souborů ve staging area
