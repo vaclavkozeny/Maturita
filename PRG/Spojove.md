@@ -100,6 +100,10 @@ class BinTree{
 ### Procházení stromu
 
 <image src="./images/search.png">
+  
+- pre-order (uzel, levý podstrom, pravý podstrom) 
+- in-order (levý podstrom, uzel, pravý podstrom) 
+- post-order (levý podstrom, pravý podstrom, uzel) 
 
 ### Heap
 
