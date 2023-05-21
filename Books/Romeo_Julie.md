@@ -10,7 +10,6 @@
 - anglický básník, dramatik a herec
 - 1564 (Stratford nad Avonou) - 1616 (Stratford nad Avonou)
 - 38 her, 154 sonetů
--
 
 ### Renesance
 
