@@ -6,7 +6,6 @@
 
 ## O autorovi a období:
 
-- romantismus a realismus
 - ruský prozaik a dramatik
 - 1809 - 1852
 - zakladatel ruského realismu
