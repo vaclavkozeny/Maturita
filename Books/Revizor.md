@@ -22,15 +22,6 @@
   - příběh starého mládence
   - stále pohrává s myšlenkou na manželství, skoro se ožení, ale uteče oknem
 
-### Romantismus
-
-- vznikl na přelomu 18. a 19. století
-- zaměřuje se na cit a duši
-- zachycuje melancholii, stesk, boj jednotlivce proti společnosti
-- osamocení hrdinové
-- postavy z okraje společnosti
-- díla většinou končí tragicky
-
 ### Realismus
 
 - 19 století
@@ -42,16 +33,15 @@
 
 ## Současní spisovatelé
 
-- **Victor Hugo [IGO]**
-  - byl francouzský básník, prozaik, dramatik
-  - vrcholný představitel romantismu
-  - **Chrám Matky Boží v Paříži** //TODO - zpracovat a dát sem odkaz
-    - historický román ze středověké Paříže
-    - hlavním hrdinou je hrbatý zvoník Quasimodo
+**Guy De Maupassant**
+  - fracouzský spisovatel
+  - **Kulička**
 - **Honoré de Balzac**
   - byl francouzský spisovatel, představitel realismu a romantismu, novinář a kritik
   - **Lidská komedie**
     - cyklus devadesáti sedmi románů a povídek
+- **Karel Havlíček Borovksý**
+  - **Tyrolské elegie**
 
 ## Slovní zásoba
 
