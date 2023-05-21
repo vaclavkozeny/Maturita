@@ -2,7 +2,7 @@
 
 - Moliére
 - 1668
-- Literární druh: Drama
+- Literární druh: Epika
 - Literární forma: Drama
 
 ## O autorovi a období
