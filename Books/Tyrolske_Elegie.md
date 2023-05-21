@@ -14,10 +14,10 @@
 
 ### Další autorova díla
 
-- **Křest svatého Vladimíra** (1877)
+- **Křest svatého Vladimíra** 
   - příběh boha Peruna (slovanský bůh hromu). Car chtěl, aby mu na jeho svátek Perun zahřměl na oslavu, Perun to odmítl splnit
   - ironizuje moc státního aparátu
-- **Epigramy** (1845)
+- **Epigramy** 
   - krátké pointované veršované skladby.
   - Většinou se jedná o kritiku, parodii či satiru.
 
