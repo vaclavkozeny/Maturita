@@ -33,7 +33,7 @@
 
 ## Současní spisovatelé
 
-**Guy De Maupassant**
+- **Guy De Maupassant**
   - fracouzský spisovatel
   - **Kulička**
 - **Honoré de Balzac**
