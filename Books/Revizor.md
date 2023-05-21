@@ -7,6 +7,7 @@
 ## O autorovi a období:
 
 - ruský prozaik a dramatik
+- pracoval jako úředník
 - 1809 - 1852
 - zakladatel ruského realismu
 
