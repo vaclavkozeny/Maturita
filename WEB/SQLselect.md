@@ -79,14 +79,20 @@ SELECT DISTINCT jméno FROM lidé --když t DB bude více Josefů tak vrátí po
 
 ## Spojení tabulek
 
-- **INNER JOIN**
-  - řádky, co mají stejnou hodnotu v obou tabulkách
-- **LEFT JOIN**
-  - všechny řádky z levé tabulky a shodující se vazby z pravé tabulky
-- **RIGHT JOIN**
-  - všechny řádky z pravé tabulky a shodující se vazby z levé tabulky
-- **FULL OUTER JOIN**
-  - řádky z obou tabulek a doplní NULL při neexistující vazbě
+- **JOIN** 
+  - tab1 JOIN tab2 USING(klíč) 
+  - tab1 JOIN tab2 ON tab1.id = tab2.id 
+- **INNER** 
+  - data s odpovídajícími klíči na obou stranách 
+- **OUTER** 
+  - všechny řádky 
+  - chybějící data doplněny null 
+- **LEFT** 
+  - všechny řádky z levé tabulky 
+  - prázdná data z pravé tabulky doplněny null 
+- **RIGHT** 
+  - všechny řádky z pravé tabulky 
+  - prázdná data z levé tabulky doplněny null 
 
 ```SQL
 SELECT tab1.sl1, tab2.sl1 ​
