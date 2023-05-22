@@ -5,7 +5,7 @@
 ## .NET
 
 - open-source cross-platform framework
-- podpora C#, F#, C++, VB.NET
+- podpora C#, F#, VB.NET
 
 ### CLI
 
