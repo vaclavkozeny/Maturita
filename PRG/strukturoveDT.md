@@ -10,27 +10,12 @@
 
 ## Objekt
 
-- abstraktní datový typ
-- všechny .NET funckce jsou jeho následníky
-- obsahuje vlastnosti, funkce
-- základní stavební kámen OOP
-- obsahuje možnost zapouzdření
-- existující objekty mohou být v programu uprovovány
-
-```CSharp
-public class User
-{
-  public int Id {get; set;}
-  public string FirstName {get; set;}
-  public string LastName {get; set;}
-  private string Password;
-
-  public override string ToString()
-  {
-    return $"({Id}) User's full name: {FirstName} {Lastname}";
-  }
-}
-```
+- instance 
+  - třídy - referenční typ (odkazuje na adresu) - new 
+  - struktury - hodnotový typ (obsahuje kopii objektu) 
+- blok paměti, který byl alokován třídou/strukturou 
+- program může vytvořit několik objektů stejné třídy/struktury 
+- v C# nejvyšší základní třída 
 
 ## Struktura
 
@@ -67,19 +52,20 @@ Console.WriteLine($"První položka z pole: {pole[0]}");
 
 ## Kolekce
 
-- soubor dat
+- **soubor dat**, většinou stejného typu - ke specifickému účelu
 - slouží jako úložiště objektů a zajištění přístupu k nim
-- např.
-  - list
-  - pole
-  - seznam
-  - Tree
-  - Dictionary
-  - Stack – LIFO (Last In First Out)
-  - Queue – FIFO (First In First Out)
+- list, pole, seznam, strom, slovník, zásobník, fronta...
 
 ### Generická kolekce
 
 - obecné kolekce
 - Datový typ se specifikuje ve chvíli vytvoření instance
 - Generický typ slouží jako zástupce pro budoucí datový typ
+
+### Negenerické kolekce
+
+- přebírají jakýkoli datový typ
+
+### Čtení prvků z kolekce
+
+- cyklus foreach iteruje přes kolekce

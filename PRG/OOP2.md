@@ -15,14 +15,11 @@
 ## Zapouzdření
 
 - umožňuje restrikci přístupu dat a metod třídy
-- **private**
-- **private protected**
-  - přístupné třídám, které danou třídu rozšiřují **a** jsou ve stejném sestavení (assembly)
-- **protected**
-  - přístupné pouze z kódu/metod dané třídy
-- **internal**
-- **public**
-  - přístpné odevšud
+- private (přístup mají nested třídy - třída ve třídě) 
+- private protected (přístup mají třídy, které dědí a jsou ve stejném sestavení dll) 
+- protected (přístup mají třídy, které dědí) 
+- internal (přístup mají třídy ve stejném sestavení dll) 
+- public (přístup mají všechny třídy) 
 
 ## Polymorfismus
 
