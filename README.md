@@ -47,9 +47,9 @@
 | 5. [Objektové programování I](./PRG/OOP1.md)                            |
 | 6. [Objektové programování II](./PRG/OOP2.md)                           |
 | 7. [Podprogramy](./PRG/Podprogramy.md)                                  |
-| 8. Návrhové vzory I                                                     |
-| 9. Návrhové vzory II                                                    |
-| 10. Paralelní programování                                              |
+| 8. [Návrhové vzory I](./PRG/NV1.md)                                     |
+| 9. [Návrhové vzory II](./PRG/NV2.md)                                    |
+| 10. [Paralelní programování](./PRG/paralel.md)                          |
 | 11. [Architektury .NET](./PRG/dotnet.md)                                |
 | 12. [Verzovací systémy](./PRG/git.md)                                   |
 | 13. [Konceptuální návrh databáze](./WEB/navrhDB.md)                     |
