@@ -57,8 +57,7 @@
 ### Hardware
 
 - fyzické systémy
-- generují data, komunikují
-- datová uložiště
+- generují data
 - senzory
 
 ### Middleware
