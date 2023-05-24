@@ -3,9 +3,8 @@
 ## IoT
 
 - Internet of Things
-- síť propojených objektů, které jsou jednoznačně adresovatelné a tvoří síť
-- síť těchto objektů je založena na komunikačních protokolech, které umožňují výměnu dat
-- IoT se snaží data v Internetu získávat z připojených senzorů místo toho, aby je zadávali lidé
+- síť propojených objektů, které jsou jednoznačně adresovatelné
+- využívají komunikačních protokolů, které umožňují výměnu dat
 - cíl IoT je propojení systému dohromady, jejich data se poté dají různě využít
 - rozdělen na:
   - **PAN**
