@@ -52,8 +52,7 @@
 
 - umožňují používat funkce Reactu bez použití třídy
   - nefungují uvnitř tříd, pouze uvnitř React funkcí
-- musí se volat na nejvyšší úrovni, vždy ve stejném pořadí
-  - nelze je tedy volat ze smyček, podmínek apod
+- nelze je tedy volat ze smyček, podmínek apod
 - **useState**
   - pro ukládání proměných komponenty
 - **useEffect**
