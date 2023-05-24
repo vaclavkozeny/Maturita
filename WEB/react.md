@@ -33,9 +33,9 @@
 - reprezentuje dokument tak, aby program mohl měnit jeho strukturu a obsah
 - **Virtual DOM**
   - eliminuje zbytečné překreslování neměnných komponent
-  - 1. Vytvořit VDOM s novým stavem aplikace
-  - 2. Porovnat s předchozím VDOM
-  - 3. V pravém DOM aktualizovat pouze ty komponenty, které se změnily
+  - vytvořit VDOM s novým stavem aplikace
+  - porovnat s předchozím VDOM
+  - v pravém DOM aktualizovat pouze ty komponenty, které se změnily
 
 ## Událost
 
