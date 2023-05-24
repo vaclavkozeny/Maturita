@@ -49,8 +49,6 @@
 - **použití:**
   - průmyslová automatizace
     - automatická diagnostika přístrojů
-  - dopravní průmysl
-    - automaticky řízené automobily
   - energetický průmysl
     - monitorování spotřeby energie
 
