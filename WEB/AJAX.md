@@ -66,8 +66,8 @@ fetch("http://example.com/source", {
   method: "POST",
   headers: {
     "Content-Type": "application/json",
-    Accept: "application/json",
-    Authorization: "Bearer d3b62babddcfae3e285dd",
+    "Accept": "application/json",
+    "Authorization": "Bearer d3b62babddcfae3e285dd",
   },
   body: JSON.stringify(data),
 })
