@@ -33,9 +33,9 @@
 - reprezentuje dokument tak, aby program mohl měnit jeho strukturu a obsah
 - **Virtual DOM**
   - eliminuje zbytečné překreslování neměnných komponent
-  - 1. Vytvořit VDOM s novým stavem aplikace
-  - 2. Porovnat s předchozím VDOM
-  - 3. V pravém DOM aktualizovat pouze ty komponenty, které se změnily
+  - vytvořit VDOM s novým stavem aplikace
+  - porovnat s předchozím VDOM
+  - v pravém DOM aktualizovat pouze ty komponenty, které se změnily
 
 ## Událost
 
@@ -52,8 +52,7 @@
 
 - umožňují používat funkce Reactu bez použití třídy
   - nefungují uvnitř tříd, pouze uvnitř React funkcí
-- musí se volat na nejvyšší úrovni, vždy ve stejném pořadí
-  - nelze je tedy volat ze smyček, podmínek apod
+- nelze je tedy volat ze smyček, podmínek apod
 - **useState**
   - pro ukládání proměných komponenty
 - **useEffect**

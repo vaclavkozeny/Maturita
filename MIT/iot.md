@@ -3,9 +3,8 @@
 ## IoT
 
 - Internet of Things
-- síť propojených objektů, které jsou jednoznačně adresovatelné a tvoří síť
-- síť těchto objektů je založena na komunikačních protokolech, které umožňují výměnu dat
-- IoT se snaží data v Internetu získávat z připojených senzorů místo toho, aby je zadávali lidé
+- síť propojených objektů, které jsou jednoznačně adresovatelné
+- využívají komunikačních protokolů, které umožňují výměnu dat
 - cíl IoT je propojení systému dohromady, jejich data se poté dají různě využít
 - rozdělen na:
   - **PAN**
@@ -38,10 +37,6 @@
 - **použití:**
   - chytré domácnosti
     - dálkové ovládání spotřebičů, detekce otevření dverí, monitorování elektrické energie
-  - inteligentní nakupování
-    - rady při nákupu podle preferencí, zvyků, alergií apod.
-  - jednodušší platby (mobilem)
-    - NFC čipy
 
 ## Průmyslový IoT
 
@@ -54,8 +49,6 @@
 - **použití:**
   - průmyslová automatizace
     - automatická diagnostika přístrojů
-  - dopravní průmysl
-    - automaticky řízené automobily
   - energetický průmysl
     - monitorování spotřeby energie
 
@@ -64,32 +57,26 @@
 ### Hardware
 
 - fyzické systémy
-- generují data, komunikují
-- datová uložiště
+- generují data
 - senzory
 
 ### Middleware
 
-- softwarová mezivrstva
-- poskytuje rozhraní aplikací
-- umožňuje propojení dvou vrstev a jejich komunikaci
+- komunikace mezi prvky
 
 ### Software
 
-- použit pro **analýzu**, **skládání** a kombinování dat
+- použit pro **analýzu**, **ukládání**
 - cloudové úložiště
 - **prezentace výsledků**, zobrazení hodnot
 
 ## Sítě typu LPWAN
 
-- tři odlišné technologie připojení v ČR
-
 ### LoRaWAN
 
 - využívá rádiovou komunikaci
-- pro přenos menšího množství informací na velkou vzdálenost
+- pro přenos **menšího** množství informací na **velkou vzdálenost**
 - nízká energetická náročnost
-- dobrá bezpečnost
 - obousměrná komunikace
 
 ### Sigfox

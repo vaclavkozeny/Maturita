@@ -66,8 +66,8 @@ fetch("http://example.com/source", {
   method: "POST",
   headers: {
     "Content-Type": "application/json",
-    Accept: "application/json",
-    Authorization: "Bearer d3b62babddcfae3e285dd",
+    "Accept": "application/json",
+    "Authorization": "Bearer d3b62babddcfae3e285dd",
   },
   body: JSON.stringify(data),
 })
@@ -81,12 +81,7 @@ fetch("http://example.com/source", {
 - “Accept” - jaký formát dat očekáváme od severu
 - “Authorization” - předáme řetězec s autorizačním tokenem
 
-## Fetch API - Responce
-
-- .fetch() i .json() vrátí Promise, je potřeba použít .then() nebo await pro získání dat
-- fetch nevrací přímo data, ale Response, který představuje celou HTTP odpověď
-- pro získání dat použijeme funkci .json()
-- .json() nevrací opravdovou hodnotu, ale Promise -> je potřeba znovu použít .then()
+<image src="./images/fetch.PNG">
 
 ## Promise
 
@@ -94,4 +89,4 @@ fetch("http://example.com/source", {
 - můžeme použít await – počkáme až Promise vrátí hodnotu
 - nebo metodu .then() - předáme do ní funkci, která hodnotu získá jako parametr
 
-<image src="./images/fetch.PNG">
+
