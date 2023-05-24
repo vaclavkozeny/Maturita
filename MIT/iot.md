@@ -37,10 +37,6 @@
 - **použití:**
   - chytré domácnosti
     - dálkové ovládání spotřebičů, detekce otevření dverí, monitorování elektrické energie
-  - inteligentní nakupování
-    - rady při nákupu podle preferencí, zvyků, alergií apod.
-  - jednodušší platby (mobilem)
-    - NFC čipy
 
 ## Průmyslový IoT
 
@@ -81,14 +77,11 @@
 
 ## Sítě typu LPWAN
 
-- tři odlišné technologie připojení v ČR
-
 ### LoRaWAN
 
 - využívá rádiovou komunikaci
-- pro přenos menšího množství informací na velkou vzdálenost
+- pro přenos **menšího** množství informací na **velkou vzdálenost**
 - nízká energetická náročnost
-- dobrá bezpečnost
 - obousměrná komunikace
 
 ### Sigfox
