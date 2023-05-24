@@ -53,7 +53,7 @@
 
 ## Děj
 
-- Osm lidí z různých sociálních vrstev přijme pozvání od pána a paní N. Z. Namyových
+- Osm lidí z různých sociálních vrstev přijme pozvání od pána a paní N. Z. Namyových (+ tam jsou dva sluhové)
 - Na úvodní večeři jsou všichni přítomní oslovení hlasem z nahrávky a hlas neznámého hostitele každého z nich obviní z vraždy, kterou v minulosti spáchali
 - Všech 10 lidí postupně záhadně umírá
 - První smrt jim přijde jako sebevražda
