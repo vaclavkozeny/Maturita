@@ -63,13 +63,11 @@
 
 ### Middleware
 
-- softwarová mezivrstva
-- poskytuje rozhraní aplikací
-- umožňuje propojení dvou vrstev a jejich komunikaci
+- komunikace mezi prvky
 
 ### Software
 
-- použit pro **analýzu**, **skládání** a kombinování dat
+- použit pro **analýzu**, **ukládání**
 - cloudové úložiště
 - **prezentace výsledků**, zobrazení hodnot
 
