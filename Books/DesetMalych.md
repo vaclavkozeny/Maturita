@@ -65,3 +65,17 @@
   - soudce nafingoval vlastní smrt a pokračoval v zabíjení
   - nakonec zbyl pouze on a jelikož byl nemocný rozhodl se spácht sebevraždu
   - napsal přiznání které nalezl rybář v lahvi
+
+## Postavy
+
+- zároveň je to pořadí umírání
+- **Tony Marston** – mladý muž; jednou přejel dvě děti; **otráven**
+- **paní Rogersová** - hospodyně na Černochově ostrově; nepodala léky staré paní, ta zemřela; **otrávena léky na spaní**
+- **John Macarthur** - generál; poslal do války milence své ženy, a ten padl; **úder do hlavy**
+- **Rogers** - sluha na Černochově ostrově; stejné obvinění jako manželka; **zavražděn sekerou**
+- **Emily Brentová** - starší dáma; vyhnala z domu služebnou, ta spáchala sebevraždu; **otrávena**
+- **Lawrence Wargrave** - soudce; hlavní postava knihy; **on je ten tajný zabiják**
+- **William Blore** - policista; usvědčil muže, ten byl odsouzen doživotně na nucené práce a za rok zemřel; **zabit padajicí soškou**
+- **Edward Armstrong** - lékař; operoval pod vlivem alkoholu, pacientka zemřela; **schozen ze skály (utopen)**
+- **Philip Lombard** - kapitán; nechal na pospas africký kmen; **zastřelen**
+- **Vera Claythornová** - učitelka; nechala plavat chlapce a ten se utopil; **oběsila se**
