@@ -20,11 +20,31 @@
 - Integrovaný routing, lze snadno vytvořit přehledné adresy URL pro webové stránky
 - Podpora Dependency Injection, což umožňuje vývojářům snadno spravovat závislosti v aplikaci
 
-#### MVC
+### MVC
+- `Model – View – Controller`
+- architektura pro vývoj aplikací
+- vznikla pro zanesení řádu do vývoje aplikací
+- základem je **model**, **view** a **controller**
+- je základem pro další architektury
 
-- jiná otázka
+#### Controler
 
-<image src="./images/mvc.png">
+- řídící jednotka celé architektury
+- drží celou aplikaci pohromadě
+- od uživatele dostává dotazy na data
+- propojuje view a model
+- volá metody
+- získaná data dále předávána view
+
+### View
+
+- zobrazuej data uživateli
+
+### Model
+
+- struktura dat
+- funkcionalita aplikace
+- návrh DB
 
 #### PageModel
 
