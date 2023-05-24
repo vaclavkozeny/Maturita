@@ -8,7 +8,7 @@
 
 - anglická dramatička a prozaička
 - druhý nejprodávanější autor všech dob
-- za vákel vypomáhala v lékárně
+- za válek vypomáhala v lékárně
 
 ### Další díla
 
