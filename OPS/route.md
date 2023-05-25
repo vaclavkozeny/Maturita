@@ -36,15 +36,18 @@
 
 ### Statické směrování vs dynamické směrování
 
+- záznamy se do směrovací tabulky přidávají buď ručně, nebo automaticky
+
 #### statické
 
 - ručně přidané
 - bezpečnější
 - méně výpočetně náročné
 - pro malé sítě
+- ručně přidané záznamy = **statické routy**
 
 #### dynamické
-
+- automaticky přidané záznamy = **dynamické routy**
 - automaticky přidané záznamy
 - router se učí cestu k sítím, které nezná
 - u dynamického směrování nemusí administrátor znát topologii sítě
@@ -54,16 +57,6 @@
 - přizpůsobují se topologii sítě
 
 ## Směrovací protokoly
-
-- záznamy se do směrovací tabulky přidávají buď ručně, nebo automaticky
-  - ručně přidané záznamy = **statické routy**
-  - rychlé, bezpečné
-  - nevhodné pro velké sítě
-- automaticky přidané záznamy = **dynamické routy**
-  - pomocí směrovacích protokolů
-  - router se naučí cestu k sítím, které nezná
-  - stačí nastavit pouze jednou a poté fungují samy
-  - přizpůsobují se topologii sítě (při výpadku hledají alternativu)
 
 ### Dynamické směrovací protokoly
 
