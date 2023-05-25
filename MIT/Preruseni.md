@@ -3,6 +3,8 @@
 `Přerušení, obsluha, vektor, povolení, příznak, priorita, kontext, zpracování, přerušovací systém
 Atmel AVR`
 
+https://docs.google.com/document/d/1ArHcuaoh3mnlHWGmcuHV1eEjppzmmxIWrL955c7_I3Y/edit#heading=h.qv6q645jm894
+
 ## Přerušení
 
 - reaguje na určitou událost
