@@ -12,8 +12,7 @@
   - router ovšem taky vidí pouze sítě, do kterých patří
 - tento problém řeší směrování
   - data, která nemůžeme doručit přímo, doručíme někomu jinému:
-    - tomu, kdo je bude moci doručit přímo (last-hop)
-    - tomu, kdo je blíže k cíli (mezilehlý router)
+    - tomu, kdo je blíže k cíli (next-hop)
     - tomu, kdo má větší šanci najít správnou cestu (default-route)
       - 0.0.0.0/0
       - shoda se všemi adresami → nejméně specifická → vyhodnocení jako poslední
