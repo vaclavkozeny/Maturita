@@ -22,6 +22,7 @@
 - 7/10 bit adresa
 - halfDuplex
 - 2 vodiče + (GND, PWR)
+- 0 silnější než 1, 1 se musí odpojit
 - MultiMaster
 - nená odolnost proti rušení
 - startBit/adresa nebo data/ACK/stopBit
