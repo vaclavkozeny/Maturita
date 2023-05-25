@@ -8,7 +8,7 @@
 | 17. [Internet věcí](./MIT/iot.md)                               |
 | 18. [Přerušovací podsystém mcu](./MIT/Preruseni.md)             |
 | 19. [Vyšší programovací jazyky pro mcu](./MIT/vyssi.md)         |
-| 20. Sériová rozhraní mcu                                        |
+| 20. [Sériová rozhraní mcu](./MIT/series.md)                     |
 | 21. [Procesory](./MIT/CPU.md)                                   |
 | 22. [Základní desky](./MIT/MB.md)                               |
 | 23. [Paměti](./MIT/Pameti.md)                                   |

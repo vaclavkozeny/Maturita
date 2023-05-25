@@ -11,4 +11,4 @@
 | 21. [Návrh webové aplikace ASP.NET](./WEB/asp.md)                 |
 | 22. [AJAX, REST](./WEB/AJAX.md)                                   |
 | 23. [React](./WEB/react.md)                                       |
-| 24. Testování software                                            |
+| 24. [Testování software](./WEB/chyby.md)                          |
