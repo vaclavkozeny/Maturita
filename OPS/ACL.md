@@ -159,13 +159,8 @@ Vytvoření ACL a nasazení ACL na porty směrovače (filtrace provozu dovnitř 
 ### Nastavení
 
 - výchozí pravidlo, které je implicitně použito na konci ACL → deny any (zakaž všechno všem)
-  - 1. necháme deny any a budeme jen povolovat přístup
-  - 2. povolíme všechno všem (permit any) a budeme zakazovat
 - záleží na aktuální konfiguraci – co je výhodnější
 - ACL nastavujeme až nakonec, předtím máme ověřenou funkčnost sítě
 
 - **standardní** – co nejblíže k cíli
 - **rozšířený** – co nejblíže ke zdroji, ušetříme provoz
-- ACL pro management – připojování přes telnet/ssh
-  - nastavíme na VTY
-- měli bychom aplikovat pouze jedno ACL, i když se vytváří více spojení pro více uživatelů (protože je nemůžeme rozlišovat - nevíme, přes které se uživatel připojí)
